@@ -1,0 +1,341 @@
+category_title,product_id,supplier_id,product_name,unit_price,supplier_name
+類比-IC,AX3112,AXElite,DC-DC Converter,270,亞瑟萊特
+類比-IC,AX3701,AXElite,Car Charging IC,296,亞瑟萊特
+類比-IC,AnD8400,AnDAPT,AnDAPT Adaptable PMIC,104,AnDAPT
+積體電路-IC,ANX7443,Analogix,10G Active Mux (6x4) with Integrated Re-timers for USB3.2/DisplayPort1.4,209,矽谷數模半導體公司
+積體電路-IC,"PT4161L, PT5161L",Astera Labs,Smart Retimer,271,Astera Labs
+記憶體,,Avalanche Technology,Embedded MRAM,240,Avalanche Technology
+記憶體,,Avalanche Technology,Discrete MRAM,104,Avalanche Technology
+嵌入式模組,G6_Sensor Pamphlet,BARAJA,光譜掃描激光雷達,58,BARAJA
+嵌入式模組,G6_Sensor Pamphlet,BARAJA,光譜掃描激光雷達,230,BARAJA
+積體電路-IC,BOS1901,Boréas Technologies,Piezo Haptic Driver,238,博亞斯科技
+記憶體,DDR4,CXMT,DRAM,270,長鑫存儲技術有限公司
+類比-IC,CY2332 / CY6572,Canyon Semiconductor,USB PD充電器 / 車充模組,10,耕源科技
+類比-IC,CL8040,Celeno,Wi-Fi 6 (802.11ax) R2 Concurrent Dual Band 4T4R PCIe Chip,29,Celeno
+類比-IC,CL8046,Celeno,Wi-Fi 6E (802.11ax) Concurrent Dual Transceivers 4T4R PCIe Chip,71,Celeno
+類比-IC,CL8060,Celeno,Wi-Fi 6 (802.11ax) R2 Concurrent Dual Band 6T6R PCIe Chip,115,Celeno
+類比-IC,CL8066,Celeno,Wi-Fi 6E (802.11ax) Concurrent Dual Transceivers 6T6R PCIe Chip,104,Celeno
+類比-IC,CL8080,Celeno,Wi-Fi 6 (802.11ax) R2 Concurrent Dual Band 8T8R PCIe Chip,225,Celeno
+微型組件,CFD30201,Credo,Seagull 110 Optical DSP,181,默升科技
+微型組件,CFD60801,Credo,SEAGULL XR8 Optical DSP,163,默升科技
+微型組件,"Seagull 50, Seagull 200",Credo,Optical DSP,56,默升科技
+連接器,Bald Eagle Retimer,Credo,Backplane & Line Card Connectivity,156,默升科技
+連接器,Raptor 100 DSP,Credo,Optical Connectivity,248,默升科技
+軟體類,000,Cyberlink,FaceMe® Security,50,訊連科技
+軟體類,000,Cyberlink,FaceMe® AI 臉部辨識引擎 (SDK),295,訊連科技
+軟體類,000,Cyberlink,FaceMe® Health,200,訊連科技
+嵌入式模組,Nano RFID modules (LF or HF),ELATEC,單頻RFID模組,65,ELATEC
+嵌入式模組,Nano RFID modules (LF or HF),ELATEC,單頻RFID模組,31,ELATEC
+嵌入式模組,TWN4 Family (HF and LF),ELATEC,多頻RFID模組,52,ELATEC
+嵌入式模組,TWN4 Family (HF and LF),ELATEC,多頻RFID模組,42,ELATEC
+微型組件,"FT9371, FT9362",FocalTech,Capacitive Fingerprint Sensor,157,敦泰電子股份有限公司
+微型組件,Smart Phone Application,FocalTech,Capacitive Touch Controller,109,敦泰電子股份有限公司
+積體電路-IC,,FocalTech,TFT-LCD Driver,199,敦泰電子股份有限公司
+電池,AA & AAA $ SC  cell,GP,Rechargeable Batteries-NiMH,108,金山電池國際有限公司
+電池,CR123A,GP,GP Primary Lithium,227,金山電池國際有限公司
+電池,CR2025,GP,鈕型電池 / 鈕扣電池,95,金山電池國際有限公司
+電池,GP Supercell Carbon Zinc AA,GP,Primary Batteries,117,金山電池國際有限公司
+電池,Mini-Lithium Series,GP,Rechargeable Batteries-Lithium,225,金山電池國際有限公司
+記憶體,GD25xx,GigaDevice,SPI Nor Flash,35,北京兆易創新科技股份有限公司
+記憶體,GD5Fxx,GigaDevice,SPI NAND Flash,135,北京兆易創新科技股份有限公司
+嵌入式模組,HSD050GDW1-B00-P,Hannstar,5-inch PND/Car Display,48,瀚宇彩晶
+嵌入式模組,HSD050GDW1-B00-P,Hannstar,5-inch PND/Car Display,158,瀚宇彩晶
+類比-IC,IP6505,Injoinic,Synchronous-Rectified Buck Converter,269,英集芯科技
+類比-IC,IP6806,Injoinic,Wireless charger IC,259,英集芯科技
+嵌入式模組,N116BCA,Innolux,11.6” TFT Liquid Crystal Display NB module,265,群創光電股份有限公司
+嵌入式模組,N116BCA,Innolux,11.6” TFT Liquid Crystal Display NB module,211,群創光電股份有限公司
+軟體類,000,Innoviz,Perception Software,262,Innoviz
+離散式元件,2N3904,KEC,Bipolar Transistor,245,台灣開益喜股份有限公司
+離散式元件,KMA2D4P20SA,KEC,MOSFET,217,台灣開益喜股份有限公司
+離散式元件,MBRD10U200CT,KEC,Diode,119,台灣開益喜股份有限公司
+記憶體,,Kingston Technology,伺服器記憶體 – 適用於資料中心的 DRAM,156,金士頓
+記憶體,,Kingston Technology,Canvas Select Plus microSD 記憶卡,263,金士頓
+記憶體,KSM32RS8/16MER,Kingston Technology,Memory Module,24,金士頓
+機電產品,IA611,Knowles,SmartMic,201,樓氏電子有限公司
+機電產品,SPH1644LM4H-1,Knowles,Multimode Digital Bottom Port Sisonictm Microphone,151,樓氏電子有限公司
+光電產品,"SFP,QSFP,OSFP",LUXSHARE ICT,10G SFP+ Direct Attached Cable Assembly,225,立訊精密
+積體電路-IC,,Lattice,iCE40 Ultra/ UltraLite/UltraPlus,287,美商萊迪思半導體股份有限公司
+積體電路-IC,,Lattice,iCE40 LP/HX/LM,228,美商萊迪思半導體股份有限公司
+積體電路-IC,ECP2/M,Lattice,ECP,187,美商萊迪思半導體股份有限公司
+積體電路-IC,ECP3,Lattice,ECP,89,美商萊迪思半導體股份有限公司
+積體電路-IC,LCMXO2-4000HC-4BG256I,Lattice,MachXO2 - Flexible Interface Bridging FPGA,12,美商萊迪思半導體股份有限公司
+積體電路-IC,MachXO,Lattice,Mach,217,美商萊迪思半導體股份有限公司
+積體電路-IC,MachXO2,Lattice,Mach,204,美商萊迪思半導體股份有限公司
+積體電路-IC,MachXO3,Lattice,Mach,132,美商萊迪思半導體股份有限公司
+積體電路-IC,可實現硬體信任根的安全FPGA,Lattice,MachXO3D,187,美商萊迪思半導體股份有限公司
+積體電路-IC,實現可編程系統控制的硬體安全方案,Lattice,Mach-NX,121,美商萊迪思半導體股份有限公司
+類比-IC,Snap™,Lattice,Wireless Connector,247,美商萊迪思半導體股份有限公司
+類比-IC,MAVID,Libre Wireless Technologies,"Multiprotocol Audio, Voice, IoT Device",61,Libre Wireless Technologies
+離散式元件,437A Series,Littelfuse,SMD Fuse,45,利特電子有限公司
+離散式元件,AQ1003-01ETG Series,Littelfuse,TVS Diode Array,16,利特電子有限公司
+離散式元件,AXGD Series,Littelfuse,XTREME-GUARD,203,利特電子有限公司
+離散式元件,DSTF40100C,Littelfuse,"2x20A, 100V, ITO-220AB, Common Cathode",212,利特電子有限公司
+離散式元件,LSIC1MO120E0080,Littelfuse,"1200 V N-channel, Enhancement-mode SiC MOSFET",192,利特電子有限公司
+離散式元件,LSIC1MO170E1000 Series,Littelfuse,Silicon Carbide MOSFET LSIC1MO170E1000,114,利特電子有限公司
+離散式元件,TPSMA,Littelfuse,TVS Diode,207,利特電子有限公司
+類比-IC,HE3300,Littelfuse,Miniature Single In-line Reed Relay,269,利特電子有限公司
+類比-IC,SZ1SMB Series,Littelfuse,TVS Diodes,208,利特電子有限公司
+記憶體,P800,Longsys,M.2 SSD,32,江波龍電子股份有限公司
+記憶體,eMMC,Longsys,eMMC,274,江波龍電子股份有限公司
+類比-IC,LUX42604 QSFP,Luxtera,Optical Modules,49,Luxtera
+類比-IC,LUX62608 OptoPHYs™,Luxtera,OPTO Fiber module,208,Luxtera
+微型組件,88SS1092,Marvell,增強型 NVMe SSD 控制器,189,美滿電子科技
+微型組件,ARMADA 8K Family,Marvell,Embedded Processors ARMADA Embedded SoCs: 32-bit and 64-bit Multicore SoCs,264,美滿電子科技
+微型組件,CNF95XX,Marvell,OCTEON Fusion Baseband DPUs,136,美滿電子科技
+微型組件,MARVELL 88F3720,Marvell,ARMADA 3700 family,101,美滿電子科技
+微型組件,Marvell Avanta,Marvell,Broadband Products,257,美滿電子科技
+微型組件,Prestera Ethernet Switch Family,Marvell,Ethernet Switch Family,172,美滿電子科技
+微型組件,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",Marvell,Storage Solutions,253,美滿電子科技
+類比-IC,88E2010,Marvell,Alaska M Multi-Gigabit Ethernet PHYs,18,美滿電子科技
+類比-IC,88X93160,Marvell,Alaska C Ethernet Transceiver,225,美滿電子科技
+類比-IC,98DX325x,Marvell,Prestera DX Ethernet Switch Family,160,美滿電子科技
+類比-IC,Alaska 88E1512,Marvell,Energy Efficient Ethernet Transceiver,27,美滿電子科技
+類比-IC,Prestera 98CX8129,Marvell,Prestera CX 以太網交換機芯片系列,19,美滿電子科技
+積體電路-IC,MCDP28x0,MegaChips,DisplayPort to Converter,79,MegaChips
+積體電路-IC,MCDP2900,MegaChips,DisplayPort to HDMI Converter,52,MegaChips
+積體電路-IC,STDP26xx,MegaChips,Display Port,235,MegaChips
+積體電路-IC,STDP4300,MegaChips,DisplayPort,53,MegaChips
+光電產品,MLX75027,Melexis,Automotive VGA Time-of-Flight Sensor,14,Melexis
+非光學傳感器,MLX90632,Melexis,數位紅外線溫度傳感器,39,Melexis
+類比-IC,PST8xxx,MinebeaMitsumi,Reset IC,281,MinebeaMitsumi
+類比-IC,HR 1203,Monolithic Power Systems,High-Performance Digital PFC + LLC Combo Controller,97,芯源系統有限公司
+類比-IC,MP175,Monolithic Power Systems,HV Buck Regulators,224,芯源系統有限公司
+類比-IC,MP2330C,Monolithic Power Systems,"24V, 3A, Synchronous Buck Converter",150,芯源系統有限公司
+類比-IC,MP26085,Monolithic Power Systems,CC/CV Controller,63,芯源系統有限公司
+類比-IC,MP26124,Monolithic Power Systems,Switching Chargers,149,芯源系統有限公司
+類比-IC,MP2965,Monolithic Power Systems,雙路數位多相控制器,247,芯源系統有限公司
+類比-IC,MP3416,Monolithic Power Systems,Synchronous Converters,40,芯源系統有限公司
+類比-IC,MP6516,Monolithic Power Systems,H-Bridge Motor Driver,23,芯源系統有限公司
+類比-IC,MP6530,Monolithic Power Systems,60V 3-Phase BLDC Motor Pre-Driver,282,芯源系統有限公司
+類比-IC,MP6925A,Monolithic Power Systems,Synchronous Rectifier,81,芯源系統有限公司
+類比-IC,MP8110,Monolithic Power Systems,High-Side Current Sense Amplifiers,240,芯源系統有限公司
+類比-IC,MPQ4214,Monolithic Power Systems,Buck-Boost Controller,162,芯源系統有限公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX 16GB,270,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier 64GB,298,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier™ Industrial,90,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,JETSON TX2 NX,135,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano™ 2GB Developer Kit,161,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX Developer Kit,280,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano Developer Kit,81,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX Module,107,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,NVIDIA EGX Edge Computing Platform,49,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano Module,213,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier Developer Kit,209,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson TX2 Developer Kit,299,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,JETSON TX2 Module,110,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX 16GB,67,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier 64GB,256,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier™ Industrial,22,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,JETSON TX2 NX,124,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano™ 2GB Developer Kit,67,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX Developer Kit,45,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano Developer Kit,90,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Xavier NX Module,79,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,NVIDIA EGX Edge Computing Platform,228,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson Nano Module,144,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson AGX Xavier Developer Kit,167,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,Jetson TX2 Developer Kit,231,香港商輝達香港控股有限公司台灣分公司
+嵌入式模組,,NVIDIA,JETSON TX2 Module,17,香港商輝達香港控股有限公司台灣分公司
+離散式元件,OSG65R099JF,Orientalsemi,GreenMOS,273,蘇州東微半導體有限公司
+離散式元件,SFG10R10xF,Orientalsemi,SFGMOS,141,蘇州東微半導體有限公司
+離散式元件,,Power Integrations,LED Driver Products,252,荷蘭商包爾英特
+離散式元件,integrated high-voltage ICs,Power Integrations,IoT,139,荷蘭商包爾英特
+類比-IC,INN3977CQ/INN3996CQ/INN3947CQ/INN3949CQ,Power Integrations,InnoSwitch3-AQ,180,荷蘭商包爾英特
+類比-IC,InnoSwitch3-Pro,Power Integrations,InnoSwitch系列,154,荷蘭商包爾英特
+光電產品,PPS3MVCD,Prophesee,動態視覺感測器,277,Prophesee
+嵌入式模組,EOS S3 EVB,QuickLogic,QuickFeather Development Board,242,QuickLogic
+嵌入式模組,EOS S3 EVB,QuickLogic,QuickFeather Development Board,90,QuickLogic
+軟體類,000,QuickLogic,SensiML Analytics Toolkit,212,QuickLogic
+光電產品,BH1790GLC,ROHM,高速脈搏感測IC，可量測壓力和血管年齡,288,羅姆半導體股份有限公司
+嵌入式模組,BSMXXXX series,ROHM,Silicon Carbide Power Module,252,羅姆半導體股份有限公司
+嵌入式模組,BSMXXXX series,ROHM,Silicon Carbide Power Module,44,羅姆半導體股份有限公司
+離散式元件,CDZCV6.8B,ROHM,"5.0V 3.0pF, SOD-923, 瞬態電壓抑制器",158,羅姆半導體股份有限公司
+離散式元件,"SCTXXXX series, SCHXXXX series",ROHM,Silicon Carbide MOSFET,227,羅姆半導體股份有限公司
+離散式元件,SMF20VTR,ROHM,SMF20V--瞬態電壓抑制器,233,羅姆半導體股份有限公司
+離散式元件,VS3V3BA1FS,ROHM,RASMID™ 系列 - TVS二極體,264,羅姆半導體股份有限公司
+離散式元件,VS5V0BC1ES,ROHM,RASMID™系列 - TVS二極體,18,羅姆半導體股份有限公司
+類比-IC,,ROHM,IoT sensors,258,羅姆半導體股份有限公司
+類比-IC,BD6586MUV,ROHM,升壓型LED驅動器,295,羅姆半導體股份有限公司
+類比-IC,BD70522GUL,ROHM,Ultra Low Iq Buck Converter,118,羅姆半導體股份有限公司
+類比-IC,BD86852MUF-C,ROHM,PMIC for Automotive Camera,102,羅姆半導體股份有限公司
+類比-IC,BU18TD3WG,ROHM,CMOS LDO Regulators 1ch 200mA,118,羅姆半導體股份有限公司
+類比-IC,BUxxSA5WGWZ,ROHM,CMOS LDO穩壓器,93,羅姆半導體股份有限公司
+類比-IC,Linear Regulators,ROHM,LDO,85,羅姆半導體股份有限公司
+非光學傳感器,ZMOD4410,Renesas,Indoor Air Quality Platform featuring Embedded Artificial Intelligence (AI),150,瑞薩電子
+測試及測量,,Rohde & Schwarz,Power Supplies Series,33,羅德史瓦茲
+測試及測量,EMC-SET EMC Precompliance Set,Rohde & Schwarz,EMC Precompliance,229,羅德史瓦茲
+測試及測量,FPC1000,Rohde & Schwarz,Spectrum Analyzers,120,羅德史瓦茲
+測試及測量,HM8150 Arbitrary Function Generator,Rohde & Schwarz,Signal Generators,211,羅德史瓦茲
+測試及測量,HMC8012 Digital Multimeter,Rohde & Schwarz,Meters & Counters,173,羅德史瓦茲
+測試及測量,HMC8015,Rohde & Schwarz,Power Analyzer,19,羅德史瓦茲
+測試及測量,NGP800,Rohde & Schwarz,R&S NGP800 Power Supply Series,132,羅德史瓦茲
+測試及測量,QAR-K,Rohde & Schwarz,R&S®QAR 優質汽車電子天線罩測試儀,105,羅德史瓦茲
+測試及測量,R&S®NRP2 Power Meter,Rohde & Schwarz,Power Meters & Sensors,186,羅德史瓦茲
+測試及測量,RTA4000,Rohde & Schwarz,RTA4000 oscilloscope,276,羅德史瓦茲
+測試及測量,RTB2000,Rohde & Schwarz,RTB2000 oscilloscope,140,羅德史瓦茲
+測試及測量,RTH Scope Rider,Rohde & Schwarz,Handheld Analyzers,43,羅德史瓦茲
+測試及測量,RTM3000,Rohde & Schwarz,RTM3000 oscilloscope,149,羅德史瓦茲
+測試及測量,RTO2000,Rohde & Schwarz,Oscilloscopes,238,羅德史瓦茲
+測試及測量,Spectrum Rider FPH,Rohde & Schwarz,Spectrum Rider FPH handheld spectrum analyzer,68,羅德史瓦茲
+測試及測量,ZND Vector Network Analyzers,Rohde & Schwarz,Network Analyzers,130,羅德史瓦茲
+微型組件,STA1095,STMicroelectronics,Accordo2,14,意法半導體
+微型組件,STA1295,STMicroelectronics,Accordo 5 Dual Core 32-bit ARM Cortex-A7,83,意法半導體
+微型組件,STM32F439II,STMicroelectronics,ARM Cortex-M4 MCU,152,意法半導體
+微型組件,STM32F446ZC,STMicroelectronics,32-bit Arm Cortex MCUs,243,意法半導體
+微型組件,STM32L476JG,STMicroelectronics,MCU,211,意法半導體
+微型組件,STM32WB,STMicroelectronics,STM32WB series MCU with built-in Bluetooth® 5.0 and IEEE 802.15.4,151,意法半導體
+微型組件,STRG06,STMicroelectronics,Universal digital multicell controller with PMBus,124,意法半導體
+積體電路-IC,MP23ABS1,STMicroelectronics,High-performance MEMS audio sensor,75,意法半導體
+記憶體,M95010-R,STMicroelectronics,Electrically Erasable Programmable Memories (EEPROMs),155,意法半導體
+記憶體,Memories,STMicroelectronics,Serial EEPROM,283,意法半導體
+記憶體,Memories,STMicroelectronics,NVRAM,132,意法半導體
+離散式元件,ST25DV02K-W1,STMicroelectronics,Dynamic NFC/RFID tag IC with 2-Kbit EEPROM and 1x PWM (Pulse Width Modulation) output,68,意法半導體
+非光學傳感器,LIS25BA,STMicroelectronics,Bone Conduction Sensor,49,意法半導體
+非光學傳感器,LIS2DH12,STMicroelectronics,MEMS digital output motion,291,意法半導體
+非光學傳感器,LIS2DS12,STMicroelectronics,G-Sensor,219,意法半導體
+非光學傳感器,LIS2MDL,STMicroelectronics,Magnetic Sensor,229,意法半導體
+非光學傳感器,LSM303AH,STMicroelectronics,e-Compass,144,意法半導體
+非光學傳感器,LSM6DSOX,STMicroelectronics,Gyroscope + G-Sensor,258,意法半導體
+非光學傳感器,LSM6DSR,STMicroelectronics,Always-on 3D accelerometer and 3D gyroscope,228,意法半導體
+類比-IC,Automotive Analog and Power,STMicroelectronics,Automotive Analog and Power,247,意法半導體
+類比-IC,BALF-NRG-01D3,STMicroelectronics,BlueNRG收發器/諧波濾波器,113,意法半導體
+類比-IC,BlueNRG-1,STMicroelectronics,藍牙 (BLE) SoC,136,意法半導體
+類比-IC,ESDCAN03-2BWY,STMicroelectronics,Automotive dual-line TVS in SOT323-3L for CAN bus,88,意法半導體
+類比-IC,LD39130S,STMicroelectronics,Ultra Low Dropout LDO regulators,275,意法半導體
+類比-IC,ST25 NFC,STMicroelectronics,RFID Tags & Readers,275,意法半導體
+類比-IC,ST25DV04K,STMicroelectronics,ST25DV-I2C series Dynamic NFC Tags,129,意法半導體
+類比-IC,STSPIN240,STMicroelectronics,Low voltage dual brush DC motor driver,87,意法半導體
+類比-IC,VNH7100BAS,STMicroelectronics,VIPower M0-7系列H橋用於直流馬達控制,207,意法半導體
+非光學傳感器,SNT8XXX,Sentons,超聲波傳感器,101,香港商顯通香港科技有限公司
+測試及測量,SZ1110,Silanna,Flyback PWM Controller with Integrated Active Clamp Circuit,83,Silanna
+嵌入式模組,,Silicon Labs,Wi-Fi Xpress AMW037 Wi-Fi® Module,30,芯科科技
+嵌入式模組,,Silicon Labs,Bluetooth Xpress BGX13P Bluetooth® Module,126,芯科科技
+嵌入式模組,,Silicon Labs,無線和射頻解决方案,221,芯科科技
+嵌入式模組,,Silicon Labs,Wi-Fi Xpress AMW037 Wi-Fi® Module,158,芯科科技
+嵌入式模組,,Silicon Labs,Bluetooth Xpress BGX13P Bluetooth® Module,149,芯科科技
+嵌入式模組,,Silicon Labs,無線和射頻解决方案,12,芯科科技
+嵌入式模組,BGX13S22GA,Silicon Labs,Bluetooth Low Energy Wireless Xpress BGX13,143,芯科科技
+嵌入式模組,BGX13S22GA,Silicon Labs,Bluetooth Low Energy Wireless Xpress BGX13,71,芯科科技
+嵌入式模組,EFR32ZG,Silicon Labs,Z-Wave Modem SoC,273,芯科科技
+嵌入式模組,EFR32ZG,Silicon Labs,Z-Wave Modem SoC,12,芯科科技
+嵌入式模組,Giant Gecko GG11 Series 1,Silicon Labs,EFM32™ Giant Gecko (32-bit MCU),226,芯科科技
+嵌入式模組,Giant Gecko GG11 Series 1,Silicon Labs,EFM32™ Giant Gecko (32-bit MCU),212,芯科科技
+嵌入式模組,RS9116N-SB00-B00,Silicon Labs,RS9116Wi-Fi 收發器模組,221,芯科科技
+嵌入式模組,RS9116N-SB00-B00,Silicon Labs,RS9116Wi-Fi 收發器模組,142,芯科科技
+嵌入式模組,SLWSTK6021A,Silicon Labs,EFR32xG22 無線 Gecko 入門套件,118,芯科科技
+嵌入式模組,SLWSTK6021A,Silicon Labs,EFR32xG22 無線 Gecko 入門套件,184,芯科科技
+嵌入式模組,Series 2 Proprietary Wireless 2.4 GHz SoC,Silicon Labs,EFR32FG22,286,芯科科技
+嵌入式模組,Series 2 Proprietary Wireless 2.4 GHz SoC,Silicon Labs,EFR32FG22,71,芯科科技
+嵌入式模組,Series 2 Zigbee SoC,Silicon Labs,EFR32MG22,196,芯科科技
+嵌入式模組,Series 2 Zigbee SoC,Silicon Labs,EFR32MG22,133,芯科科技
+嵌入式模組,"Z-Wave 500, Z-Wave 700",Silicon Labs,Z-Wave 智慧家庭無線解決方案,169,芯科科技
+嵌入式模組,"Z-Wave 500, Z-Wave 700",Silicon Labs,Z-Wave 智慧家庭無線解決方案,148,芯科科技
+微型組件,EFM8BB5,Silicon Labs,EFM8 BB5 8 位元微控制器 (MCU),51,芯科科技
+非光學傳感器,CPT112S,Silicon Labs,12 Channel TouchXpress Capacitive Touch Controller,290,芯科科技
+非光學傳感器,Si1143/44,Silicon Labs,Biometric Sensors,195,芯科科技
+類比-IC,EFR32BG24,Silicon Labs,EFR32BG24 藍牙® 無線 SoC,153,芯科科技
+類比-IC,EFR32MG24,Silicon Labs,EFR32MG24 多重協定無線 SoC,257,芯科科技
+類比-IC,MCU+BLE,Silicon Labs,EFR32BG22系列藍牙單晶片/ SoC,105,芯科科技
+類比-IC,SM6125NSKP,Sinopower,N-Channel Enhancement Mode MOSFET,267,大中積體電路
+積體電路-IC,Si5332,Skyworks,Highly Integrated Clock Generator for 10/25/100G,286,美商思佳訊半導體有限公司
+積體電路-IC,Si538x,Skyworks,"Wireless Clock Jitter Attenuator, Jitter Cleaner",32,美商思佳訊半導體有限公司
+積體電路-IC,Si5391,Skyworks,Ultra Low-Jitter Clock Generator,239,美商思佳訊半導體有限公司
+積體電路-IC,Si539x,Skyworks,"Clock Jitter Attenuators, Jitter Cleaners",250,美商思佳訊半導體有限公司
+被動元件,Si54x Ultra Series™,Skyworks,High Performance Crystal Oscillators,201,美商思佳訊半導體有限公司
+類比-IC,SKY66430-11,Skyworks,5G Massive IoT System-in-Package,108,美商思佳訊半導體有限公司
+類比-IC,SKY85747-11 / SKY85333-11,Skyworks,WLan Front-end Modules,91,美商思佳訊半導體有限公司
+光電產品,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",Sony Semiconductor,STARVIS CMOS 影像感測器,118,Sony Semiconductor
+光電產品,IMX490,Sony Semiconductor,CMOS Image Sensor for Automotive Cameras,68,Sony Semiconductor
+光電產品,ISX019,Sony Semiconductor,CMOS Image Sensor for Automotive,60,Sony Semiconductor
+光電產品,"ISX019, IMX290, IMX224, IMX390, IMX490",Sony Semiconductor,車用CMOS影像感測器解決方案,279,Sony Semiconductor
+微型組件,CXD3781,Sony Semiconductor,Audio Codec IC,57,Sony Semiconductor
+非光學傳感器,CXD5603GF,Sony Semiconductor,GPS,183,Sony Semiconductor
+非光學傳感器,CXD5605,Sony Semiconductor,GPS/GNSS Receiver,67,Sony Semiconductor
+嵌入式模組,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,Summit Wireless,Summit USBTX LG Innotek USB Tranmsitter,19,Summit Wireless
+嵌入式模組,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,Summit Wireless,Summit USBTX LG Innotek USB Tranmsitter,108,Summit Wireless
+嵌入式模組,Summit SWM908SD TX Module,Summit Wireless,Summit Transmitter Standard Distance TX-SD,80,Summit Wireless
+嵌入式模組,Summit SWM908SD TX Module,Summit Wireless,Summit Transmitter Standard Distance TX-SD,95,Summit Wireless
+嵌入式模組,Summit SWS997SD Rx Module,Summit Wireless,Summit Transmitter Standard Distance RX-SD,294,Summit Wireless
+嵌入式模組,Summit SWS997SD Rx Module,Summit Wireless,Summit Transmitter Standard Distance RX-SD,78,Summit Wireless
+非光學傳感器,FM Series,Superior Sensor Technology,Pressure sensor - Flow Meters,61,Superior Sensor Technology
+非光學傳感器,HV Series,Superior Sensor Technology,Pressure sensor - HVAC,62,Superior Sensor Technology
+非光學傳感器,HV160 / HV120 / HV110 / HV210,Superior Sensor Technology,HV Series - 適用於HVAC應用的壓力傳感器,104,Superior Sensor Technology
+非光學傳感器,ND210 / ND110 / ND120 / ND130 / ND005D,Superior Sensor Technology,ND Series - 適用於工業應用的壓力傳感器,143,Superior Sensor Technology
+非光學傳感器,SP160 / SP110 / SP210,Superior Sensor Technology,SP Series - 適用於肺功能檢查應用的壓力傳感器,288,Superior Sensor Technology
+微型組件,CX20921,Synaptics,Dual-Mic Far-Field Voice Processor SoC,35,香港商新思國際科技有限公司
+微型組件,CX20924,Synaptics,4-mic Far-Field Voice Input Processor SoC,201,香港商新思國際科技有限公司
+微型組件,"CX22721, CX20921, CX20924",Synaptics,AudioSmart® Far-Field Voice DSPs,114,香港商新思國際科技有限公司
+微型組件,CX31988,Synaptics,USB Type-C Audio Codec,128,香港商新思國際科技有限公司
+機電產品,ICS-40212,TDK InvenSense,Analog MEMS Microphone,76,應美盛股份有限公司
+機電產品,ICS‐41350,TDK InvenSense,Digital MEMS Microphone,53,應美盛股份有限公司
+機電產品,T3903,TDK InvenSense,Bottom Port PDM Digital Output Multi-Mode Microphone,92,應美盛股份有限公司
+非光學傳感器,IAM-20680,TDK InvenSense,6-axis (Gyro+Accel) MotionTracking Device,198,應美盛股份有限公司
+非光學傳感器,IAM-20680HP,TDK InvenSense,High Performance Automotive 6-Axis MotionTracking Device,241,應美盛股份有限公司
+非光學傳感器,ICM-42688-P,TDK InvenSense,High Precision 6-Axis MEMS MotionTracking™ Device,225,應美盛股份有限公司
+非光學傳感器,ICM20602,TDK InvenSense,6 Axis MEMS MotionTracking,14,應美盛股份有限公司
+非光學傳感器,TPE-500/800/900,Tangio,Force and touch-sensing solutions,25,Tangio
+嵌入式模組,,Taoglas,EDGE Locate cm-Level Module,212,銳鋒股份有限公司
+嵌入式模組,,Taoglas,EDGE Locate cm-Level Module,249,銳鋒股份有限公司
+嵌入式模組,EDGE,Taoglas,EDGE Industrial Cellular & Gateway Solutions,102,銳鋒股份有限公司
+嵌入式模組,EDGE,Taoglas,EDGE Industrial Cellular & Gateway Solutions,25,銳鋒股份有限公司
+積體電路-IC,FE1.1,Terminus,USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER,235,湯銘科技股份有限公司
+積體電路-IC,FE2.1,Terminus,USB 2.0 7-PORT HUB CONTROLLER,171,湯銘科技股份有限公司
+嵌入式模組,Cinterion IoT Terminals-EHS6T,Thales,M2M Modules and Terminals,268,Thales
+嵌入式模組,Cinterion IoT Terminals-EHS6T,Thales,M2M Modules and Terminals,209,Thales
+嵌入式模組,ELS31,Thales,M2M Modules and Terminals,172,Thales
+嵌入式模組,ELS31,Thales,M2M Modules and Terminals,23,Thales
+嵌入式模組,ELS61,Thales,M2M Modules and Terminals,227,Thales
+嵌入式模組,ELS61,Thales,M2M Modules and Terminals,287,Thales
+嵌入式模組,EXS82-W,Thales,Global MTC (LTE Cat.M/NB/2G),153,Thales
+嵌入式模組,EXS82-W,Thales,Global MTC (LTE Cat.M/NB/2G),265,Thales
+嵌入式模組,PLS8,Thales,M2M ​​​​​​​​​​​​LTE Connectivity with Advanced GPS,61,Thales
+嵌入式模組,PLS8,Thales,M2M ​​​​​​​​​​​​LTE Connectivity with Advanced GPS,236,Thales
+類比-IC,XBP06V0U25R,Torex Semiconductor,Transient Voltage Suppressors (TVS),203,特瑞仕半導體
+類比-IC,XC6133,Torex Semiconductor,Delay capacitor adjustable voltage detectors with sense pin isolation,255,特瑞仕半導體
+類比-IC,XC6209,Torex Semiconductor,LDO XC6209 Series,292,特瑞仕半導體
+類比-IC,XC6222,Torex Semiconductor,700mA High Speed LDO Regulator,101,特瑞仕半導體
+類比-IC,XC9143 / XC9144,Torex Semiconductor,同步整流升壓DC/DC轉換器,75,特瑞仕半導體
+類比-IC,XC9272 Series,Torex Semiconductor,Ideal for wearable devices,12,特瑞仕半導體
+類比-IC,XC9281 / XC9282,Torex Semiconductor,HiSAT-COT® 超小型 600mA DC/DC 轉換器,13,特瑞仕半導體
+類比-IC,XC9282,Torex Semiconductor,HiSAT-COT Control Extremely Small 600mA Step-Down DC/DC Converters,277,特瑞仕半導體
+類比-IC,XCL series,Torex Semiconductor,micro DC/DC,119,特瑞仕半導體
+類比-IC,XD Series,Torex Semiconductor,Car Electronics,51,特瑞仕半導體
+嵌入式模組,WM-BN-BM26_A,USI,Wireless Module,18,環旭電子股份有限公司
+嵌入式模組,WM-BN-BM26_A,USI,Wireless Module,26,環旭電子股份有限公司
+嵌入式模組,WM-N-BM-30,USI,IoT Module,49,環旭電子股份有限公司
+嵌入式模組,WM-N-BM-30,USI,IoT Module,108,環旭電子股份有限公司
+離散式元件,"UJ3C, UF3C, UF3SC",UnitedSiC,SiC FETs,278,聯合碳化矽股份有限公司
+離散式元件,UJ3D,UnitedSiC,SiC Schottky Diodes,239,聯合碳化矽股份有限公司
+離散式元件,UJ3N,UnitedSiC,SiC JFETs,256,聯合碳化矽股份有限公司
+非光學傳感器,,Valencell,Benchmark™ Sensor Systems,18,Valencell
+非光學傳感器,,Valencell,Benchmark™  Sensor Systems,85,Valencell
+記憶體,,Western Digital (SanDisk),OEM iNAND Storage Solutions,251,Western Digital (SanDisk)
+記憶體,,Western Digital (SanDisk),OEM/Commercial Card & USB Device,44,Western Digital (SanDisk)
+記憶體,,Western Digital (SanDisk),Industrial SD & Micro SD CARDS,193,Western Digital (SanDisk)
+記憶體,X600,Western Digital (SanDisk),Client SSD,104,Western Digital (SanDisk)
+記憶體,iNAND 7232,Western Digital (SanDisk),eMMC,155,Western Digital (SanDisk)
+記憶體,iNAND 7250,Western Digital (SanDisk),eMMC,124,Western Digital (SanDisk)
+記憶體,iNAND 7250,Western Digital (SanDisk),Industrial iNAND Storage,98,Western Digital (SanDisk)
+記憶體,iNAND 7550,Western Digital (SanDisk),eMMC,227,Western Digital (SanDisk)
+微型組件,,Xilinx,Zynq UltraScale + RFSoC,187,Xilinx
+光電產品,,ams OSRAM,Time-of-Flight (ToF) Sensors,76,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,BIDOS® Family,ams OSRAM,VCSEL,261,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,Photodiode & Phototransistor,ams OSRAM,Ambient Light Sensors,27,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,SFH 4725AS A01,ams OSRAM,OSLON® Black,73,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,SFH203FA,ams OSRAM,Silicon PIN Photodiode,49,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,SFH4544,ams OSRAM,紅外線發射器,102,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,TCS3430,ams OSRAM,Tristimulus Color Sensor,96,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,TMD3702VC,ams OSRAM,Color Light Sensor,122,艾邁斯歐司朗半導體國際股份有限公司
+光電產品,TSL2540,ams OSRAM,Ambient Light Sensor,210,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,AS5600,ams OSRAM,Position Sensor,228,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,AS6200C,ams OSRAM,Temperature Sensor,165,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,AS7026,ams OSRAM,Vital Signs Module,98,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,AS7038RB,ams OSRAM,Vital Sign Sensor,93,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,AS7265x,ams OSRAM,AS7265x compact 18-channel chipset,225,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,CCS811,ams OSRAM,Gas Sensor Solution,230,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,TMD2635,ams OSRAM,IR Proximity Detection Module,292,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,TMF8701,ams OSRAM,1D Time-of-Flight Sensor,49,艾邁斯歐司朗半導體國際股份有限公司
+非光學傳感器,TMF8801,ams OSRAM,1D Time-of-Flight Sensor,82,艾邁斯歐司朗半導體國際股份有限公司
+嵌入式模組,TLens Silver,poLight,TLens,229,poLight
+嵌入式模組,TLens Silver,poLight,TLens,44,poLight
+機電產品,Montara Series,xMEMS Labs,MONTARA MEMS 揚聲器,197,xMEMS Labs

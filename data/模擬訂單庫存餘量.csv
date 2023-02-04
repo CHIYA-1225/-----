@@ -1,0 +1,1439 @@
+order_id,order_date,order_customer,item_category,item_vendor,order_item,order_price,order_qty,delivery_date,delivery_address,stock
+PO-0090,2021-08-06,Ellen Johnston,軟體類,Cyberlink,000,52.5,1086,2022-01-08,"82197 Fuller Valleys Suite 463
+Campbellfort, WI 60133",-115
+PO-0804,2021-10-06,Charles Taylor,軟體類,Cyberlink,000,52.5,2306,2022-01-30,"21694 Erin Rest Suite 584
+North Dominictown, SC 92535",-2421
+PO-0086,2021-12-07,Brooke Shaw,軟體類,Cyberlink,000,52.5,1966,2022-01-31,"42700 Barnes Shoals Apt. 273
+East Cristian, DC 81303",-4387
+PO-0848,2021-10-26,Lisa Braun,軟體類,Cyberlink,000,52.5,1595,2022-02-12,"PSC 4001, Box 4207
+APO AA 32103",-5982
+PO-1269,2021-07-30,William Lawrence,軟體類,Cyberlink,000,52.5,1412,2022-02-18,"3071 Mary Heights Apt. 418
+South Shannon, VT 95790",-7394
+PO-0066,2021-07-11,Craig Kelley,軟體類,Cyberlink,000,52.5,2798,2022-03-01,"3277 Mark Station Apt. 813
+New Frankfurt, WY 88492",-10192
+PO-0794,2021-05-13,Paula Wu,軟體類,Cyberlink,000,52.5,2448,2022-03-02,"407 Joseph Gateway Suite 719
+Alexisview, WA 38325",-12640
+PO-1162,2021-09-28,Gregory Montoya,軟體類,Cyberlink,000,52.5,2028,2022-03-16,"781 Garcia Manor
+East Sarah, HI 03553",-14668
+PO-0023,2021-07-21,Charlene Daniels,軟體類,Cyberlink,000,52.5,2879,2022-03-31,"PSC 8475, Box 8954
+APO AE 60510",-17547
+PO-1503,2022-03-03,Brian Ramos,軟體類,Cyberlink,000,52.5,1877,2022-04-03,"1672 Alexis Turnpike Suite 617
+Frazierfort, AR 46748",-19424
+PO-1678,2021-12-25,John Vaughan,軟體類,Cyberlink,000,52.5,2822,2022-04-10,"6547 Phillips Flat Apt. 370
+Carrillochester, IA 01739",-22246
+PO-0587,2022-04-22,Gregory Thompson,軟體類,Cyberlink,000,52.5,2007,2022-05-04,"26875 George Manors
+Katherineshire, WI 56259",-24253
+PO-0356,2021-12-04,Meghan Johnson,軟體類,Cyberlink,000,52.5,1384,2022-05-20,"871 Belinda Via
+West Marissaland, MI 50869",-25637
+PO-1326,2022-05-26,Sharon Wilson,軟體類,Cyberlink,000,52.5,1527,2022-06-01,"33965 Maria Fords Apt. 318
+South Annland, TN 00800",-27164
+PO-1506,2022-05-24,Terri Haney,軟體類,Cyberlink,000,52.5,2347,2022-06-01,"416 Ellis Island Apt. 123
+East Jenniferton, UT 60698",-29511
+PO-1173,2021-12-17,Marc Yoder,軟體類,Cyberlink,000,52.5,1662,2022-06-06,"074 Elizabeth Turnpike
+Krystalview, CA 03872",-31173
+PO-1898,2021-12-16,Bobby Murphy,軟體類,Cyberlink,000,52.5,2837,2022-06-13,"4727 Diana Throughway
+New Williamstad, CA 53929",-34010
+PO-0997,2021-05-05,Tiffany Kelley,軟體類,Cyberlink,000,52.5,1852,2022-06-14,"15617 Rodriguez Drive Apt. 846
+Patrickchester, OH 83036",-35862
+PO-0330,2022-05-18,Jennifer Johnson,軟體類,Cyberlink,000,52.5,2961,2022-06-19,"Unit 3678 Box 4001
+DPO AA 28827",-38823
+PO-1757,2021-06-04,Michael Hart,軟體類,Cyberlink,000,52.5,1712,2022-06-22,"497 Murphy Underpass
+Cookport, OR 72084",-40535
+PO-0242,2021-08-08,John Blevins,軟體類,Cyberlink,000,52.5,1074,2022-06-23,"22424 Kyle Mountains Apt. 336
+Bethmouth, SD 54844",-41609
+PO-1755,2022-01-28,Michael Garcia,軟體類,Cyberlink,000,52.5,1227,2022-06-24,"525 Brad Shores
+West Jacquelineville, FL 23455",-42836
+PO-1893,2022-05-28,Lisa Bray,軟體類,Cyberlink,000,52.5,2282,2022-07-01,"045 Maria Forges
+New Christopherland, GA 09266",-45118
+PO-0653,2022-01-06,Samuel Vega,離散式元件,KEC,2N3904,257.25,1172,2022-04-29,"076 Garner Oval
+West Johnfort, AL 75241",-1066
+PO-0048,2021-10-12,Andrew Hughes,離散式元件,KEC,2N3904,257.25,2259,2022-05-08,"096 Robert Rapid Apt. 384
+South Tina, VA 99350",-3325
+PO-0610,2022-02-24,Angela Johnson,離散式元件,KEC,2N3904,257.25,2440,2022-06-09,"0406 John Light Suite 734
+South Philip, LA 53891",-5765
+PO-1462,2022-04-04,Tony Harris,離散式元件,KEC,2N3904,257.25,2359,2022-06-11,"76887 Owen Forks Suite 856
+Donnaborough, RI 73402",-8124
+PO-0123,2022-03-06,Christopher Mason,離散式元件,KEC,2N3904,257.25,2375,2022-06-15,"49196 Thomas Field Suite 695
+Jonathanton, WY 41430",-10499
+PO-1583,2021-05-02,Kaitlyn Lowery,離散式元件,Littelfuse,437A Series,47.25,1755,2021-07-01,"102 Kennedy Loop Suite 116
+Port Jamesland, UT 60875",-500
+PO-1128,2021-05-21,Heather Marquez,離散式元件,Littelfuse,437A Series,47.25,1470,2021-08-21,"2414 Samantha Route Suite 348
+East Bettyport, SC 88115",-1970
+PO-0460,2021-12-06,Laura Taylor,離散式元件,Littelfuse,437A Series,47.25,1332,2022-01-02,"207 Kidd Club
+Port Robinburgh, NV 83400",-3302
+PO-0908,2021-12-21,Benjamin Burton,離散式元件,Littelfuse,437A Series,47.25,1114,2022-01-11,"133 Ellis Glen Suite 725
+Port Patriciaborough, RI 77948",-4416
+PO-0755,2022-02-18,Allen Harrington,離散式元件,Littelfuse,437A Series,47.25,2767,2022-03-03,"753 Warner Valley Suite 771
+North Jeffreyhaven, NH 08068",-7183
+PO-0274,2021-05-07,Sherri Cunningham,離散式元件,Littelfuse,437A Series,47.25,1577,2022-03-06,"05577 Robinson Heights Suite 234
+East Benjamintown, WA 34825",-8760
+PO-0318,2022-02-19,Kim White,離散式元件,Littelfuse,437A Series,47.25,2869,2022-04-08,"8569 Martin Forks Apt. 954
+Port Kimberly, KY 85447",-11629
+PO-1594,2021-07-10,Megan Larsen,離散式元件,Littelfuse,437A Series,47.25,2627,2022-04-11,"46993 Joy Islands Apt. 359
+East Michaeltown, SD 18039",-14256
+PO-1493,2022-03-11,Krista Spencer,離散式元件,Littelfuse,437A Series,47.25,1003,2022-05-02,"64718 Joshua Station Apt. 924
+Lake Barbarashire, RI 90330",-15259
+PO-1673,2021-09-02,Lynn Dominguez,離散式元件,Littelfuse,437A Series,47.25,2651,2022-05-15,"79026 Hale Camp Suite 913
+Paultown, MI 79787",-17910
+PO-1006,2021-12-16,Evelyn Nichols,類比-IC,Marvell,88E2010,18.9,2648,2022-02-05,"862 Gary Ferry
+Guzmanside, TX 47570",-2411
+PO-1394,2021-09-12,Jennifer Norton,類比-IC,Marvell,88E2010,18.9,1435,2022-03-15,"0633 Harper Ferry
+Williamsview, PA 27442",-3846
+PO-1016,2021-11-25,Lori Brown,類比-IC,Marvell,88E2010,18.9,2657,2022-04-11,"PSC 9273, Box 0479
+APO AA 92633",-6503
+PO-1090,2021-12-10,Thomas Burns,類比-IC,Marvell,88E2010,18.9,1639,2022-04-19,"49933 Kennedy Dam Suite 955
+Donnachester, MI 00751",-8142
+PO-0386,2022-02-25,James Bennett,類比-IC,Marvell,88E2010,18.9,2158,2022-06-27,"9528 James Lodge Apt. 048
+Port Katherine, VT 75963",-10300
+PO-0198,2021-12-03,Sherri Guzman,類比-IC,Marvell,98DX325x,168.0,1936,2022-04-16,"785 Cynthia Spurs
+Sarahton, WV 73834",-1795
+PO-0434,2021-11-26,Ms. Kimberly Bradley,類比-IC,Marvell,98DX325x,168.0,1817,2022-06-24,"6996 Williams Summit Suite 754
+Port Garrett, MA 76835",-3612
+PO-1871,2021-11-08,Daniel Briggs,積體電路-IC,Analogix,ANX7443,219.45,2832,2022-06-11,"678 James Pine
+East Steven, NC 02148",-157
+PO-1878,2021-06-03,Sarah Watson,積體電路-IC,Analogix,ANX7443,219.45,1056,2022-06-29,"24940 Jessica Station
+Andreamouth, IL 25865",-1213
+PO-1557,2022-04-27,Lorraine Pearson,積體電路-IC,Analogix,ANX7443,219.45,2398,2022-06-30,"PSC 0395, Box 9035
+APO AP 11985",-3611
+PO-0948,2021-06-10,John Small,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,1060,2021-07-07,"7027 Wilson Shore Apt. 894
+New Laurenfort, FL 80207",-494
+PO-1643,2021-09-11,Melody Wright,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,2243,2021-09-17,"38037 Kyle Burgs Suite 296
+Karenstad, MA 15983",-2737
+PO-1001,2021-10-22,Hunter Patterson,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,1091,2022-01-30,"01205 Matthew Inlet
+Brooksborough, NH 33278",-3828
+PO-0921,2022-01-30,Kristin Smith,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,1895,2022-05-15,"0922 Sanchez Meadow Suite 844
+South Stephanie, WY 48787",-5723
+PO-1074,2021-12-12,Denise Hall,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,2361,2022-06-07,"445 Santos Ridge Apt. 253
+Port Thomas, MA 62364",-8084
+PO-1024,2022-02-08,Kenneth Garcia,離散式元件,Littelfuse,AQ1003-01ETG Series,16.8,1523,2022-06-17,"46873 Aaron Lane Apt. 586
+East Chadchester, MT 08481",-9607
+PO-0055,2021-12-02,James Gilbert,非光學傳感器,ams OSRAM,AS7026,102.9,1958,2022-01-18,"0622 Terry Crest Suite 956
+Jessicaborough, HI 01615",-736
+PO-0753,2021-12-02,Michael Harris,非光學傳感器,ams OSRAM,AS7026,102.9,2869,2022-03-10,"1985 Monique Estates
+West Julieside, TX 02212",-3605
+PO-1137,2022-03-01,Justin Anthony DDS,非光學傳感器,ams OSRAM,AS7026,102.9,1003,2022-03-13,"0392 Norton Fall
+New Timothy, IL 34182",-4608
+PO-0790,2022-02-11,Nicole Lowe,非光學傳感器,ams OSRAM,AS7026,102.9,2524,2022-03-16,"221 Zachary Drives Apt. 569
+Lake Larry, AL 24820",-7132
+PO-1864,2022-03-15,Michelle Sanders,非光學傳感器,ams OSRAM,AS7026,102.9,2304,2022-03-22,"867 Christine Village Apt. 822
+Castillohaven, WI 59841",-9436
+PO-1738,2021-05-18,Tamara Juarez,非光學傳感器,ams OSRAM,AS7026,102.9,2336,2022-04-13,"062 Perez Hollow
+North Meganbury, WI 06264",-11772
+PO-0701,2021-05-05,Kimberly Sanchez,非光學傳感器,ams OSRAM,AS7026,102.9,1495,2022-04-20,"7254 Cook Villages
+Michelleborough, WY 00672",-13267
+PO-0232,2021-09-02,Ashley Olson,非光學傳感器,ams OSRAM,AS7026,102.9,2150,2022-05-03,"USS Smith
+FPO AA 06500",-15417
+PO-1823,2022-03-04,Larry Curry,非光學傳感器,ams OSRAM,AS7026,102.9,1198,2022-05-10,"250 Romero Point
+Robinsonburgh, VA 01885",-16615
+PO-1249,2022-03-13,Annette Weaver,非光學傳感器,ams OSRAM,AS7026,102.9,2835,2022-05-28,"07941 Jennifer Estate Suite 287
+North Christina, AR 79336",-19450
+PO-0593,2022-04-16,Donna Cox,非光學傳感器,ams OSRAM,AS7026,102.9,2371,2022-05-31,"9878 Powell Ramp
+Miketown, CA 26707",-21821
+PO-0704,2022-05-19,Denise Bell,非光學傳感器,ams OSRAM,AS7026,102.9,1286,2022-06-13,"683 Christopher Brooks Suite 243
+New Victoriaview, ID 86229",-23107
+PO-0573,2022-05-10,Victoria Ellis,非光學傳感器,ams OSRAM,AS7026,102.9,1578,2022-06-25,"92633 Carr Trace
+New Carolynland, MS 08144",-24685
+PO-1289,2021-11-05,Matthew Golden,非光學傳感器,ams OSRAM,AS7038RB,97.65,2952,2022-02-02,"7694 Johnson Fords Apt. 891
+Brianland, SD 37598",-2732
+PO-0051,2021-09-22,David Alvarez,非光學傳感器,ams OSRAM,AS7038RB,97.65,1195,2022-03-19,"65266 Vincent Shoal
+Castillohaven, MS 21471",-3927
+PO-0099,2022-04-24,William Boyd,非光學傳感器,ams OSRAM,AS7038RB,97.65,2671,2022-04-29,"299 Warren Bypass Apt. 132
+South Danielville, NY 95870",-6598
+PO-1760,2022-04-04,Timothy Parker,非光學傳感器,ams OSRAM,AS7038RB,97.65,2869,2022-06-18,"PSC 4144, Box 8637
+APO AE 85406",-9467
+PO-0667,2021-12-02,Mark Turner,類比-IC,AXElite,AX3701,310.8,1206,2022-01-31,"45723 Barry Lodge
+Garzachester, KY 42401",-1073
+PO-1010,2021-10-22,Eugene Baker,類比-IC,AXElite,AX3701,310.8,2634,2022-02-27,"1657 Daniel Crossing
+Carterview, KY 20866",-3707
+PO-1407,2021-05-08,Brandon Ortiz,類比-IC,AXElite,AX3701,310.8,1230,2022-02-27,"81413 Baxter Mall
+Seanville, MI 62536",-4937
+PO-0152,2021-06-16,Melissa Alvarez,類比-IC,AXElite,AX3701,310.8,1233,2022-04-28,"39961 Stephen Vista Apt. 192
+Lopezport, MO 74882",-6170
+PO-0199,2022-04-24,Jennifer Rivera,類比-IC,AXElite,AX3701,310.8,1898,2022-05-18,"Unit 3192 Box 0307
+DPO AE 66626",-8068
+PO-0627,2022-05-27,Joshua Fitzgerald,類比-IC,AXElite,AX3701,310.8,2106,2022-06-25,"387 Bowman Springs
+Lake Christopherberg, NE 08775",-10174
+PO-1062,2021-09-16,Larry Luna,離散式元件,Littelfuse,AXGD Series,213.15,2537,2022-06-02,"3291 Bennett Station Apt. 895
+Youngstad, GA 78934",-770
+PO-0068,2022-01-27,Melissa Fisher,類比-IC,STMicroelectronics,Automotive Analog and Power,259.35,2195,2022-06-27,"4063 Padilla Mission Suite 471
+Kevinbury, WY 93891",-545
+PO-0502,2022-05-26,Patricia Allen,類比-IC,STMicroelectronics,Automotive Analog and Power,259.35,2628,2022-07-01,"698 Rebecca Mountain Apt. 001
+Michaelstad, WA 12714",-3173
+PO-0414,2021-05-08,Tiffany Lopez,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,2995,2021-11-15,"7958 Misty Land Suite 859
+North Christopher, CA 78574",-278
+PO-1283,2021-10-07,Roger Edwards,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,1391,2021-12-24,"3026 Jason Flats
+Lake Hayden, CO 67579",-1669
+PO-1323,2021-04-29,Mark Ortiz,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,1305,2022-01-18,"914 Joseph Track
+East Andrew, IA 39798",-2974
+PO-1975,2022-04-13,Jacob Thompson,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,2803,2022-05-20,"4840 Williams Motorway
+Joshuaborough, NM 46014",-5777
+PO-0333,2022-04-25,Christy Gonzales,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,1572,2022-05-24,"142 Amy Spring Apt. 284
+East Melissaview, HI 42922",-7349
+PO-0841,2022-05-20,Catherine Berger,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,1819,2022-05-31,"6605 Anne Shoals Suite 238
+Lake Kristin, WY 43271",-9168
+PO-1653,2022-01-10,Angelica Owens,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,2259,2022-06-08,"USCGC Garcia
+FPO AA 02726",-11427
+PO-1593,2021-10-25,Justin Thompson,類比-IC,STMicroelectronics,BALF-NRG-01D3,118.65,2667,2022-06-11,"97736 Brown Locks
+North Maxtown, IL 66598",-14094
+PO-1904,2021-09-25,Kim Cline,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2290,2021-11-04,"9196 Morgan Curve Suite 755
+North Beverly, DE 91146",-1021
+PO-1408,2021-08-22,Paula Alexander,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2211,2021-11-13,"60566 Trevor Crescent Suite 080
+Port Anna, AK 24725",-3232
+PO-0175,2021-11-29,John Thomas,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1266,2022-02-25,"502 Patrick Mount
+North Tylerland, IL 20319",-4498
+PO-0393,2022-02-23,Elizabeth Chung,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1053,2022-04-04,"8708 Decker Prairie Suite 516
+New Michaelmouth, NJ 82147",-5551
+PO-0399,2022-04-01,Patrick Howell,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2259,2022-04-08,"521 Jenna Groves
+South Scott, LA 16105",-7810
+PO-0681,2021-04-07,Karen Spence,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1874,2022-05-02,"4904 Sarah Wells
+Patrickton, CA 13938",-9684
+PO-0805,2022-04-16,Micheal Scott,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1843,2022-05-03,"6707 Andre Pass Suite 144
+South Christina, AR 47507",-11527
+PO-1028,2021-08-06,Briana Medina,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1120,2022-05-20,"80868 Zachary Avenue Suite 083
+Jasmineside, MT 81364",-12647
+PO-0559,2021-10-22,Andrew Vaughn,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2471,2022-05-23,"39240 Cunningham Trafficway Apt. 692
+Hillbury, AR 39920",-15118
+PO-0257,2022-03-11,Joseph Dickerson,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2469,2022-05-27,"65659 Maxwell Green Suite 088
+Port Zoe, OK 14490",-17587
+PO-1092,2022-04-22,Lisa Munoz,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,1462,2022-06-17,"28062 Lynch Fort
+West Bridgetmouth, HI 94352",-19049
+PO-1478,2022-05-16,Shelia Stone,嵌入式模組,Silicon Labs,BGX13S22GA,150.15,2066,2022-06-28,"8126 Parker Prairie
+Simschester, LA 06053",-21115
+PO-0026,2022-04-28,Crystal Middleton,積體電路-IC,Boréas Technologies,BOS1901,249.9,2954,2022-05-09,"38831 Irwin Alley
+New Elizabeth, CA 97730",-699
+PO-1095,2021-12-19,Carol Watkins,積體電路-IC,Boréas Technologies,BOS1901,249.9,1703,2022-05-14,"871 Welch Fall
+Lindseyport, GA 95629",-2402
+PO-0696,2022-02-03,Jeffrey Smith,積體電路-IC,Boréas Technologies,BOS1901,249.9,2800,2022-06-10,"781 Rachel Harbor Apt. 157
+Cooperstad, NH 79479",-5202
+PO-0194,2022-02-23,Sarah Cruz,積體電路-IC,Boréas Technologies,BOS1901,249.9,1374,2022-06-11,"65952 Stanley Run
+Lisaland, KS 46596",-6576
+PO-1601,2022-02-19,Brian Zhang,嵌入式模組,ROHM,BSMXXXX series,264.6,2387,2022-03-29,"710 Sara Trail Apt. 328
+Lake Thomas, OK 45318",-384
+PO-0771,2021-09-05,Lisa Le,嵌入式模組,ROHM,BSMXXXX series,264.6,1204,2022-04-04,"PSC 4144, Box 2777
+APO AP 80389",-1588
+PO-1705,2021-06-07,Jose Ramirez,嵌入式模組,ROHM,BSMXXXX series,264.6,2540,2022-05-05,"60731 Zachary Street Suite 581
+Port Stephanieport, AK 44995",-4128
+PO-1745,2021-08-25,Mark Matthews,嵌入式模組,ROHM,BSMXXXX series,264.6,2241,2022-06-04,"8631 Douglas Locks Apt. 434
+East David, AR 26080",-6369
+PO-0125,2022-02-17,Alexandria Hood,嵌入式模組,ROHM,BSMXXXX series,264.6,2377,2022-06-08,"20546 Alexander Course Apt. 892
+East Sherriside, AR 10630",-8746
+PO-0387,2021-07-27,William Johnston,嵌入式模組,ROHM,BSMXXXX series,264.6,2523,2022-06-16,"2235 Penny Greens
+Griffithview, AR 49769",-11269
+PO-1521,2021-11-05,Amber Duncan,類比-IC,ROHM,BU18TD3WG,123.9,2774,2022-04-21,"PSC 5910, Box 0843
+APO AA 60778",-2285
+PO-1023,2022-01-19,Craig Robles,類比-IC,ROHM,BU18TD3WG,123.9,2558,2022-05-08,"49681 Rice Glens Apt. 043
+West Juliantown, NC 35997",-4843
+PO-0697,2022-04-16,Adam Wright,類比-IC,ROHM,BU18TD3WG,123.9,1617,2022-06-06,"863 Jones Village
+Anthonyton, CT 34014",-6460
+PO-0211,2022-05-19,Tyler Stephens,類比-IC,ROHM,BU18TD3WG,123.9,2919,2022-06-17,"3687 Callahan Road
+Mendozatown, MA 25425",-9379
+PO-1458,2021-04-13,Marcus Tran,類比-IC,ROHM,BUxxSA5WGWZ,97.65,2122,2021-12-27,"0166 Rita Cliffs Suite 898
+Lake Randall, HI 87164",-844
+PO-1399,2021-04-30,Brenda Hernandez,類比-IC,ROHM,BUxxSA5WGWZ,97.65,2408,2022-01-24,"Unit 3190 Box 3646
+DPO AE 32634",-3252
+PO-1275,2021-12-21,Sarah Jackson,類比-IC,ROHM,BUxxSA5WGWZ,97.65,1158,2022-04-02,"Unit 6698 Box 6398
+DPO AP 14916",-4410
+PO-0711,2022-04-21,Terri Fields,類比-IC,ROHM,BUxxSA5WGWZ,97.65,2708,2022-05-27,"PSC 7396, Box 4884
+APO AE 91684",-7118
+PO-1224,2022-05-03,Steven Walker,類比-IC,ROHM,BUxxSA5WGWZ,97.65,2482,2022-06-10,"92029 Rosario Plaza
+Marcville, CA 69571",-9600
+PO-0060,2021-09-21,William Klein,連接器,Credo,Bald Eagle Retimer,163.8,1873,2022-01-04,"PSC 6253, Box 1201
+APO AP 22445",-603
+PO-1312,2022-01-16,Dominique Schneider,連接器,Credo,Bald Eagle Retimer,163.8,2868,2022-01-21,"46937 Kathleen Light Apt. 732
+Lake Christinetown, ME 73539",-3471
+PO-1417,2021-10-18,Laura Soto,連接器,Credo,Bald Eagle Retimer,163.8,2430,2022-01-28,"2137 Park Terrace
+Port Morgan, SD 38344",-5901
+PO-1191,2022-02-22,Laurie Oconnell,連接器,Credo,Bald Eagle Retimer,163.8,1051,2022-03-02,"0534 Jones Views
+East Kennethport, NJ 51452",-6952
+PO-0452,2021-08-30,Cheryl Lopez,連接器,Credo,Bald Eagle Retimer,163.8,2985,2022-03-25,"18317 John Heights
+New Brendaton, PA 13033",-9937
+PO-1774,2022-01-09,Bobby Jackson,連接器,Credo,Bald Eagle Retimer,163.8,2958,2022-06-16,"3489 Crystal Canyon Apt. 597
+South Abigail, MA 31075",-12895
+PO-1764,2021-12-26,Robert Andrews,類比-IC,STMicroelectronics,BlueNRG-1,142.8,2592,2022-01-07,"7830 Kirk Island Apt. 549
+South Lance, CA 31712",-709
+PO-0526,2021-11-03,Shannon Phillips,類比-IC,STMicroelectronics,BlueNRG-1,142.8,2219,2022-03-05,"279 Kirby Overpass
+Molinafort, WY 94282",-2928
+PO-1337,2022-03-30,Kristin Jones,類比-IC,STMicroelectronics,BlueNRG-1,142.8,2808,2022-04-18,"294 Michael Brooks
+Mccarthyshire, OR 39297",-5736
+PO-0027,2022-01-28,Christopher Burke,類比-IC,STMicroelectronics,BlueNRG-1,142.8,1959,2022-04-19,"27942 Wood Route Apt. 311
+West John, MT 71119",-7695
+PO-1820,2021-11-22,Mark Wells,類比-IC,STMicroelectronics,BlueNRG-1,142.8,2706,2022-06-15,"080 Christopher Field Apt. 380
+Lake Cindy, AZ 16823",-10401
+PO-0508,2021-10-09,Dawn Mora,微型組件,Credo,CFD60801,171.15,1331,2021-10-15,"2112 Christopher Fall
+West Jonathanfort, NM 17680",-690
+PO-1022,2021-04-18,Scott Smith,微型組件,Credo,CFD60801,171.15,1094,2021-10-28,"5145 Rebecca Forks Suite 923
+Katiechester, RI 66503",-1784
+PO-1238,2021-07-25,Richard Lee,微型組件,Credo,CFD60801,171.15,1114,2021-11-01,"8225 Garcia Spring
+Vegaville, MD 58114",-2898
+PO-1770,2021-11-02,Whitney Perez,微型組件,Credo,CFD60801,171.15,2467,2022-04-11,"3744 Bell Glens Apt. 689
+North Robertoview, VA 60684",-5365
+PO-0271,2021-09-22,Kimberly Figueroa,微型組件,Credo,CFD60801,171.15,2627,2022-05-12,"017 Robinson Fields
+Port Eric, ID 05121",-7992
+PO-1467,2022-01-04,Levi Lynch,微型組件,Credo,CFD60801,171.15,2125,2022-06-27,"450 Yang Creek
+Cortezfort, MN 09743",-10117
+PO-1440,2022-02-10,Robert Larson,類比-IC,Celeno,CL8040,30.450000000000003,2342,2022-06-14,"42841 Raymond Junction Suite 526
+West Barbaraton, KY 45443",-1604
+PO-1679,2022-05-14,Jamie Jackson,類比-IC,Celeno,CL8046,74.55,1546,2022-06-12,"610 Gregory Lakes Apt. 029
+Allenville, GA 41702",-573
+PO-0071,2022-03-07,Edwin Williams,類比-IC,Celeno,CL8046,74.55,1331,2022-06-14,"721 Hess Terrace
+Derekland, AZ 76729",-1904
+PO-0309,2022-04-09,Denise Adams,類比-IC,Celeno,CL8046,74.55,1593,2022-06-20,"9570 Byrd Crest Suite 351
+Patriciaberg, CA 06318",-3497
+PO-0324,2021-09-10,Micheal Vargas,微型組件,Marvell,CNF95XX,142.8,2020,2021-10-07,"00187 Jones Pass
+Port Natalieview, NE 53264",-1193
+PO-0357,2021-09-30,Jonathan Nguyen,微型組件,Marvell,CNF95XX,142.8,2259,2021-11-14,"76527 David Views Apt. 315
+Lake Katrinachester, WI 09817",-3452
+PO-1398,2021-09-23,Douglas Meyer,微型組件,Marvell,CNF95XX,142.8,1165,2021-11-20,"1640 Tiffany Avenue
+Lake Stephenborough, OK 41387",-4617
+PO-1541,2021-12-23,Michelle Ponce,微型組件,Marvell,CNF95XX,142.8,1406,2021-12-24,"7180 Jacob Ports
+Zacharyview, VT 51774",-6023
+PO-0955,2021-08-25,William Frey,微型組件,Marvell,CNF95XX,142.8,1427,2022-01-05,"6842 Sally Junctions Suite 901
+Booneburgh, ND 86383",-7450
+PO-1003,2021-04-27,Beverly Green,微型組件,Marvell,CNF95XX,142.8,2375,2022-01-06,"0317 Brown Brooks Suite 386
+Jamesview, AL 68980",-9825
+PO-1214,2021-07-24,Susan Travis,微型組件,Marvell,CNF95XX,142.8,2151,2022-01-25,"3465 Haynes Parks
+West Richard, WY 69688",-11976
+PO-1366,2021-07-12,Daniel Frank,微型組件,Marvell,CNF95XX,142.8,1394,2022-04-03,"17959 Clay Knolls Suite 698
+Stevenport, CA 49129",-13370
+PO-0757,2022-03-31,Michael Richards,微型組件,Marvell,CNF95XX,142.8,2906,2022-04-20,"262 Little Drive Suite 337
+North Justin, RI 56097",-16276
+PO-1474,2022-03-26,Ryan Martin,微型組件,Marvell,CNF95XX,142.8,2704,2022-05-01,"645 Louis Islands Apt. 654
+Brownfort, SC 27415",-18980
+PO-1533,2022-03-22,John Jacobson,微型組件,Marvell,CNF95XX,142.8,1583,2022-05-20,"617 Joshua Estates Suite 112
+North Ryanmouth, MT 95265",-20563
+PO-1668,2022-04-10,Xavier Patton,微型組件,Marvell,CNF95XX,142.8,2667,2022-06-14,"2945 Ortiz Ferry
+West Michaelaburgh, AZ 18658",-23230
+PO-1756,2021-12-11,Dylan Cochran,微型組件,Marvell,CNF95XX,142.8,2377,2022-06-25,"2222 Gray Plains
+Courtneyberg, NH 50539",-25607
+PO-1183,2021-07-24,Kelsey Trevino,電池,GP,CR2025,99.75,2211,2021-12-26,"640 April Locks
+Acostamouth, MA 25349",-188
+PO-1650,2021-10-30,Stephen Weeks,電池,GP,CR2025,99.75,2188,2022-01-23,"72130 Brian Way Apt. 320
+Parkerfort, IL 69732",-2376
+PO-0490,2021-07-15,Christopher Mckee,電池,GP,CR2025,99.75,2648,2022-02-24,"7856 Peter Crossing
+Katrinachester, MD 46080",-5024
+PO-1933,2022-02-11,Jonathan Bradley,電池,GP,CR2025,99.75,2856,2022-02-26,"Unit 7988 Box 6270
+DPO AE 74886",-7880
+PO-0981,2022-03-14,Suzanne Ross,電池,GP,CR2025,99.75,1890,2022-03-27,"Unit 3117 Box 0446
+DPO AP 14436",-9770
+PO-0751,2021-08-03,Ronald Lynch,電池,GP,CR2025,99.75,1843,2022-04-02,"09625 Madeline Isle Suite 681
+West Dennis, WV 95153",-11613
+PO-0898,2022-02-22,Gregory Harris,電池,GP,CR2025,99.75,2210,2022-05-16,"PSC 1130, Box 1595
+APO AE 43863",-13823
+PO-1281,2022-04-21,Charles Nelson,電池,GP,CR2025,99.75,1789,2022-05-27,"95087 Taylor Stream
+Lake Angela, IN 99227",-15612
+PO-0207,2021-07-30,Michael Tran,電池,GP,CR2025,99.75,1999,2022-05-30,"21267 Nelson Mountains
+East Stephaniemouth, ME 58751",-17611
+PO-1556,2022-03-05,Keith Allen,微型組件,Synaptics,CX20924,211.05,2834,2022-03-20,"8041 Amy Heights
+Chelseaside, CT 47809",-2135
+PO-1874,2021-10-16,Allison Dorsey,微型組件,Synaptics,CX20924,211.05,1775,2022-03-25,"69019 Angela Ferry Suite 086
+Alexandershire, RI 63715",-3910
+PO-0578,2022-03-18,Jeffrey Mills,微型組件,Synaptics,CX20924,211.05,2074,2022-05-18,"320 Luna Run
+West Micheleberg, ND 01576",-5984
+PO-0855,2021-10-17,Blake Jefferson,微型組件,Synaptics,CX20924,211.05,2391,2022-05-29,"3332 Taylor Fords
+East Christineberg, NC 60675",-8375
+PO-1586,2022-05-31,Wesley Gonzalez,微型組件,Synaptics,CX20924,211.05,2283,2022-06-05,"64535 Christopher Manors Suite 817
+Michaelport, AR 49599",-10658
+PO-1909,2021-10-01,Kelly Esparza,微型組件,Synaptics,CX20924,211.05,2893,2022-07-01,"422 Scott Coves
+Royside, SD 27984",-13551
+PO-0579,2021-04-12,Rodney Johnson,微型組件,Sony Semiconductor,CXD3781,59.85,2269,2021-10-07,"PSC 5195, Box 3580
+APO AP 01614",-755
+PO-0084,2021-05-28,Alexis Maddox,微型組件,Sony Semiconductor,CXD3781,59.85,2117,2022-01-16,"4058 Johnson Walk Suite 258
+Howellborough, ND 91818",-2872
+PO-1362,2022-01-24,Danny Williamson,微型組件,Sony Semiconductor,CXD3781,59.85,2510,2022-01-28,"84633 John Plains Suite 132
+Dannyborough, WV 10245",-5382
+PO-1876,2022-04-08,Daniel Thomas,微型組件,Sony Semiconductor,CXD3781,59.85,1855,2022-05-13,"06793 Gillespie Mount Suite 519
+Ramosborough, NM 68299",-7237
+PO-1123,2021-05-09,Aaron Henderson,微型組件,Sony Semiconductor,CXD3781,59.85,2865,2022-05-23,"03687 Courtney Parks
+East Angela, IA 84827",-10102
+PO-1979,2022-03-29,Mike Welch,微型組件,Sony Semiconductor,CXD3781,59.85,2054,2022-05-24,"83455 Jennifer Valleys
+Port Markshire, KS 20177",-12156
+PO-0328,2022-05-15,Scott Shelton,微型組件,Sony Semiconductor,CXD3781,59.85,1411,2022-05-25,"1780 Miller Harbor Apt. 239
+Bennettmouth, MS 31618",-13567
+PO-1598,2021-05-31,Miranda Wilson,非光學傳感器,Sony Semiconductor,CXD5603GF,192.15,1645,2022-05-30,"922 Horn Gateway Suite 615
+Lake Anthony, DC 80083",-27
+PO-1027,2021-05-13,Travis Underwood,非光學傳感器,Sony Semiconductor,CXD5603GF,192.15,1264,2022-06-03,"190 Nolan Circle Suite 937
+Bishopchester, GA 28406",-1291
+PO-1324,2021-04-08,Barbara Martinez,非光學傳感器,Sony Semiconductor,CXD5603GF,192.15,2451,2022-06-24,"PSC 0844, Box 0847
+APO AP 20925",-3742
+PO-0153,2021-09-20,Sarah Brooks,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,2308,2021-11-29,"98348 Mathis Meadow Apt. 514
+Danachester, HI 21961",-355
+PO-1552,2021-11-05,Chris Murphy,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,1329,2022-03-18,"7670 Mary Tunnel
+Port Michaelborough, PA 30344",-1684
+PO-1665,2021-12-11,Jacob Hart,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,2611,2022-04-07,"432 Jill Center
+Melissaview, TX 55210",-4295
+PO-0528,2021-09-30,Darren Garcia,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,1742,2022-04-16,"21889 Hall Extensions Apt. 986
+Jonstad, IA 13656",-6037
+PO-1812,2022-04-26,Jonathan Cooley,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,2119,2022-05-07,"242 Robert Alley Suite 848
+Lake Stephanieshire, VA 04539",-8156
+PO-1690,2022-02-23,Calvin Martinez,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,2269,2022-05-13,"5444 Randolph Walk Suite 787
+Bankschester, CA 65542",-10425
+PO-0992,2022-03-04,Jennifer Alvarado,非光學傳感器,Sony Semiconductor,CXD5605,70.35000000000001,1538,2022-06-06,"1408 Foster Drive
+Jeremyberg, ND 58702",-11963
+PO-1055,2022-03-17,Cynthia Wright,嵌入式模組,Thales,Cinterion IoT Terminals-EHS6T,281.40000000000003,2540,2022-04-12,"1807 Smith Way
+Lake Michelle, AR 42006",-2229
+PO-1251,2021-04-18,Stephanie Hutchinson,嵌入式模組,Thales,Cinterion IoT Terminals-EHS6T,281.40000000000003,1891,2022-05-16,"795 Duncan Fall
+Robertton, AL 69645",-4120
+PO-0337,2022-03-10,Richard Lopez,嵌入式模組,Thales,Cinterion IoT Terminals-EHS6T,281.40000000000003,1034,2022-05-18,"2470 Grace Brooks Apt. 651
+Port Erikfort, AZ 42707",-5154
+PO-0770,2021-10-02,Michael Moore,嵌入式模組,Thales,Cinterion IoT Terminals-EHS6T,281.40000000000003,2738,2022-05-26,"089 Melissa Curve Apt. 177
+Kristenmouth, NJ 72430",-7892
+PO-0892,2022-02-19,Mr. Ryan Bennett DVM,嵌入式模組,Thales,Cinterion IoT Terminals-EHS6T,281.40000000000003,2918,2022-06-11,"73437 Hernandez Port
+Campbellport, HI 16500",-10810
+PO-1138,2021-09-15,Kathleen Williams,積體電路-IC,Lattice,ECP2/M,196.35,2736,2021-12-01,"7696 Davila Rapids Apt. 395
+South Justin, WA 09172",-930
+PO-1651,2021-08-15,Melissa Fowler,積體電路-IC,Lattice,ECP2/M,196.35,1978,2022-01-07,"USS Freeman
+FPO AA 21495",-2908
+PO-1457,2021-12-04,Alyssa Williams,積體電路-IC,Lattice,ECP2/M,196.35,1535,2022-01-09,"8124 Amanda Rue Suite 889
+West Johnathanside, MN 49041",-4443
+PO-1704,2022-01-02,Edwin Rivera,積體電路-IC,Lattice,ECP2/M,196.35,2817,2022-01-30,"64176 Marilyn Landing
+Gloriachester, HI 31744",-7260
+PO-1254,2021-04-11,James Campbell,積體電路-IC,Lattice,ECP2/M,196.35,2838,2022-02-22,"16544 Baker Pine
+Lake Sharonstad, AK 84602",-10098
+PO-1491,2021-10-27,Heather Wheeler,積體電路-IC,Lattice,ECP2/M,196.35,1241,2022-05-02,"Unit 3446 Box 1661
+DPO AP 21120",-11339
+PO-1903,2022-03-16,Susan Gomez DDS,積體電路-IC,Lattice,ECP2/M,196.35,2756,2022-05-26,"61200 Lambert Skyway
+West Heather, NM 56987",-14095
+PO-1974,2022-05-16,David Scott,積體電路-IC,Lattice,ECP2/M,196.35,2562,2022-06-24,"1211 Glenn Union
+North Andrew, HI 82164",-16657
+PO-1630,2021-12-11,Lynn Jones,嵌入式模組,Taoglas,EDGE,107.1,1589,2022-01-11,"USS Ross
+FPO AA 21486",-677
+PO-1980,2021-08-05,Sarah Wells,嵌入式模組,Taoglas,EDGE,107.1,2403,2022-01-20,"045 Katherine Knolls Suite 245
+Elizabethhaven, IN 24203",-3080
+PO-0923,2021-10-30,Patrick Bell,嵌入式模組,Taoglas,EDGE,107.1,2003,2022-02-09,"37110 Jamie Harbor Suite 164
+Jaredstad, AK 66762",-5083
+PO-0366,2021-10-15,Joseph Parrish,嵌入式模組,Taoglas,EDGE,107.1,1868,2022-02-12,"9404 Jeffrey Mountain Apt. 644
+East Scott, VA 35350",-6951
+PO-1689,2022-01-04,Pam Thomas,嵌入式模組,Taoglas,EDGE,107.1,1447,2022-03-18,"619 May Plains
+East Steveland, LA 10043",-8398
+PO-1231,2021-12-14,Jessica Hobbs,嵌入式模組,Taoglas,EDGE,107.1,1896,2022-03-20,"94952 Francisco Lane
+Millershire, MT 76447",-10294
+PO-1477,2021-05-30,Barbara Lewis,嵌入式模組,Taoglas,EDGE,107.1,2677,2022-03-31,"3859 David Union
+Spencerchester, IL 39518",-12971
+PO-0433,2021-10-17,Paul Dean,嵌入式模組,Taoglas,EDGE,107.1,1224,2022-04-19,"87754 Turner Oval Apt. 447
+South Scott, NJ 52057",-14195
+PO-0619,2022-04-16,Derek Wilson,嵌入式模組,Taoglas,EDGE,107.1,1617,2022-05-05,"14522 Rodriguez Circles Suite 075
+Lawrencefurt, IL 35805",-15812
+PO-0358,2022-02-26,Nicole Doyle,嵌入式模組,Taoglas,EDGE,107.1,2177,2022-05-13,"452 Gerald Fork
+Karihaven, WV 74119",-17989
+PO-1942,2022-03-06,Arthur Reed,嵌入式模組,Taoglas,EDGE,107.1,2373,2022-05-14,"7775 Miller Point Suite 158
+Moorestad, OR 78537",-20362
+PO-0321,2021-12-07,Alicia Smith,嵌入式模組,Taoglas,EDGE,107.1,2661,2022-05-19,"210 Ortega Pine
+South Michaelhaven, IL 94466",-23023
+PO-1500,2021-12-21,Christine Orozco,嵌入式模組,Taoglas,EDGE,107.1,1915,2022-06-09,"USCGC Juarez
+FPO AP 25433",-24938
+PO-0784,2021-06-26,Charles Barrett,嵌入式模組,Taoglas,EDGE,107.1,1998,2022-06-13,"331 Marie Oval
+Millerborough, NH 48364",-26936
+PO-0437,2021-05-02,Patrick Jones,類比-IC,Silicon Labs,EFR32BG24,160.65,2477,2022-02-25,"83876 Jacob Fields
+Chelseamouth, KY 16885",-658
+PO-1029,2021-11-22,Phillip Ellis,類比-IC,Silicon Labs,EFR32BG24,160.65,1602,2022-03-24,"8956 Felicia Points
+Aguilarberg, UT 75642",-2260
+PO-0977,2022-04-21,Luis Archer,類比-IC,Silicon Labs,EFR32BG24,160.65,2987,2022-05-08,"49620 Richard Skyway Suite 440
+Juanmouth, WV 15465",-5247
+PO-1429,2022-04-17,William Anthony,類比-IC,Silicon Labs,EFR32BG24,160.65,1854,2022-05-25,"059 Hubbard Heights
+South Heatherhaven, NE 21186",-7101
+PO-0258,2022-04-09,Dawn Thompson,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,1969,2022-04-24,"40646 Nicholas Pass
+Georgeside, LA 74419",-1592
+PO-1350,2021-08-31,Brian Peterson,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2670,2022-04-25,"92864 Kimberly Turnpike
+Olsenberg, MD 81683",-4262
+PO-0785,2022-05-04,Kerry Harrington,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,1239,2022-05-04,"324 James Club
+Kennedymouth, NE 64322",-5501
+PO-0779,2021-05-15,Anthony Solomon PhD,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2055,2022-05-18,"18032 Jacqueline Fort Apt. 839
+Dunlapshire, MN 44568",-7556
+PO-1309,2022-03-11,Heather Whitehead,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2338,2022-05-23,"91649 Steve Inlet
+West Julieburgh, ID 59024",-9894
+PO-1833,2022-05-12,Alexandra Ramirez,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,1657,2022-05-30,"47206 Donald Manors
+Freemanmouth, HI 66703",-11551
+PO-0438,2022-05-18,Mr. Brian Carroll,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,1629,2022-06-09,"706 Sanchez View
+Port Joshua, WY 77056",-13180
+PO-0320,2022-06-01,Alicia Kennedy MD,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2507,2022-06-10,"793 Kelly Mountain Apt. 550
+West John, MT 81943",-15687
+PO-0042,2021-10-03,Eric Jones,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2510,2022-06-21,"27338 Chambers Trail Suite 506
+Port Mary, DC 53460",-18197
+PO-1920,2022-04-30,Ms. Kristina Sullivan,嵌入式模組,Silicon Labs,EFR32ZG,286.65000000000003,2352,2022-06-23,"Unit 9086 Box 8678
+DPO AP 88124",-20549
+PO-1106,2021-07-17,Steven Combs,嵌入式模組,Thales,ELS31,180.6,2321,2021-08-20,"85266 Allison Freeway Apt. 497
+Port Gary, MO 73149",-1735
+PO-1646,2021-09-27,Stephen Andrade,嵌入式模組,Thales,ELS31,180.6,1302,2021-12-21,"02801 Steven Way
+East Anna, AZ 18118",-3037
+PO-1421,2021-07-19,Hunter Lynch,嵌入式模組,Thales,ELS31,180.6,1878,2022-01-28,"234 Wheeler Ridges
+Williamville, DE 89625",-4915
+PO-1781,2021-08-17,Molly Moody,嵌入式模組,Thales,ELS31,180.6,2771,2022-02-27,"0767 Wilkinson Corner
+Lucasburgh, GA 34111",-7686
+PO-1728,2022-03-03,Miranda Brown,嵌入式模組,Thales,ELS31,180.6,1406,2022-04-07,"9346 Grant Road Apt. 857
+East Danielbury, NH 39558",-9092
+PO-1647,2021-10-14,Shelley Cherry,嵌入式模組,Thales,ELS31,180.6,1444,2022-05-10,"300 Andre Mall Apt. 172
+Lindseyview, IN 96501",-10536
+PO-1223,2022-06-01,Laurie Collins,嵌入式模組,Thales,ELS31,180.6,1473,2022-06-14,"3382 Eric Pine
+Blackburntown, ME 70868",-12009
+PO-0598,2022-03-12,John Foley,嵌入式模組,Thales,ELS31,180.6,2761,2022-06-29,"99575 Jeremiah Underpass Apt. 030
+Nicholsburgh, WY 51595",-14770
+PO-0092,2022-04-20,Andrew Miller,嵌入式模組,Thales,ELS31,180.6,2819,2022-06-30,"5051 Fernandez Walks
+Phillipschester, UT 40543",-17589
+PO-0218,2022-01-07,Kelly Hawkins,嵌入式模組,Thales,ELS31,180.6,2374,2022-07-01,"5966 Roberts Cove Suite 934
+Jasminemouth, MI 29224",-19963
+PO-1302,2022-01-04,Michael Wilson,嵌入式模組,Thales,ELS61,238.35,1920,2022-01-19,"043 Jackson Groves Apt. 778
+Elizabethtown, MO 76941",-1778
+PO-0666,2021-06-23,Michael Rivera,嵌入式模組,Thales,ELS61,238.35,1904,2022-01-22,"USS Small
+FPO AA 84892",-3682
+PO-1529,2021-06-12,Jeanette Wong,嵌入式模組,Thales,ELS61,238.35,1360,2022-01-23,"119 Reed Track Suite 645
+Cartermouth, CA 10249",-5042
+PO-0260,2021-11-04,Kristin Jacobs,嵌入式模組,Thales,ELS61,238.35,1840,2022-02-19,"11745 Nichole Alley Suite 092
+New Sharon, UT 12438",-6882
+PO-1053,2021-07-18,Susan Crane,嵌入式模組,Thales,ELS61,238.35,1717,2022-03-30,"3618 Rivera Fork
+Smithton, SD 34431",-8599
+PO-1790,2021-07-14,Charlene Dean,嵌入式模組,Thales,ELS61,238.35,1658,2022-03-31,"20950 Montoya Spring Suite 583
+North Danielle, MO 09404",-10257
+PO-1430,2022-03-19,Donna Juarez,嵌入式模組,Thales,ELS61,238.35,2719,2022-05-05,"USNV Ross
+FPO AP 10982",-12976
+PO-1801,2022-01-22,Brian Adams,嵌入式模組,Thales,ELS61,238.35,2534,2022-06-16,"4091 Hancock Forest
+Brianhaven, CT 72585",-15510
+PO-1321,2021-10-01,Tony Morris,嵌入式模組,Thales,ELS61,238.35,1995,2022-07-01,"518 Bryan Mountains Suite 044
+Tonyaport, FL 59730",-17505
+PO-0531,2021-04-25,Daniel Thompson,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2980,2021-09-26,"11350 Max Village
+Jacksonchester, TX 17661",-1085
+PO-1524,2021-04-26,Kimberly Martin,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2053,2021-10-23,"954 Anderson Square Apt. 882
+Petersonmouth, KY 24943",-3138
+PO-0470,2021-08-21,Corey Payne,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2978,2021-10-29,"477 Williams Haven Apt. 494
+Briggsborough, IL 90548",-6116
+PO-0141,2021-09-11,Mary Romero,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2660,2022-03-06,"66441 Herring Extensions Apt. 574
+North Bruce, MN 62115",-8776
+PO-0897,2022-01-20,Tony Gonzalez,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2709,2022-03-11,"PSC 0959, Box 6043
+APO AP 36128",-11485
+PO-1428,2022-01-29,Blake Leon,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,1150,2022-05-09,"79929 Brenda Rapid Apt. 316
+Port Isabelmouth, AL 80185",-12635
+PO-0517,2022-02-22,James Green,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,1638,2022-05-20,"014 Kristen Lights
+Sierraburgh, WY 09982",-14273
+PO-1591,2022-05-14,Renee Smith,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2291,2022-05-30,"PSC 4685, Box 7893
+APO AP 33944",-16564
+PO-1411,2022-05-08,Hector May,嵌入式模組,QuickLogic,EOS S3 EVB,254.1,2540,2022-06-03,"50790 Cabrera Port Suite 770
+Gomezland, CT 41509",-19104
+PO-1746,2021-12-28,Jennifer Lopez,嵌入式模組,Thales,EXS82-W,160.65,2547,2022-06-01,"5738 Garrett Shoals Apt. 386
+Trevormouth, NE 22570",-2518
+PO-1301,2022-04-12,Robert Miller,嵌入式模組,Thales,EXS82-W,160.65,1293,2022-06-02,"322 Wright Field Apt. 069
+Lake Cindy, IN 93659",-3811
+PO-1007,2021-05-20,Thomas Johnson,嵌入式模組,Thales,EXS82-W,160.65,1988,2022-06-20,"373 Laura Lock Apt. 953
+Christianview, OK 39477",-5799
+PO-1300,2022-04-11,Eugene Jackson,非光學傳感器,Superior Sensor Technology,FM Series,64.05,2656,2022-06-10,"3453 Jermaine Locks Apt. 063
+North Danielbury, VA 25218",-1280
+PO-1002,2022-04-27,Alexander Vaughn,非光學傳感器,Superior Sensor Technology,FM Series,64.05,1359,2022-06-11,"58088 Kaitlin Center Apt. 231
+Lowefurt, ME 34709",-2639
+PO-0871,2022-04-29,Barbara Frank,測試及測量,Rohde & Schwarz,FPC1000,126.0,2331,2022-05-12,"683 Dominguez Junction
+West Erika, NM 83876",-423
+PO-0473,2022-05-16,Sheryl Martin,測試及測量,Rohde & Schwarz,FPC1000,126.0,2135,2022-06-17,"USS Schroeder
+FPO AA 59630",-2558
+PO-1295,2022-05-19,Ronald Lee,測試及測量,Rohde & Schwarz,FPC1000,126.0,2077,2022-06-29,"67576 Tara Dale Suite 894
+New Tinaton, WV 74248",-4635
+PO-1479,2021-11-12,Chelsey Huffman,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,1909,2021-11-14,"193 Graves Mews Apt. 588
+East Maurice, MO 95107",-1326
+PO-0459,2021-08-03,Laura Strickland,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,1538,2021-12-05,"218 Wilson Curve Apt. 921
+North Sarahland, WY 94553",-2864
+PO-1101,2021-08-20,Kelly Curtis,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,2705,2022-01-07,"670 Barton Springs
+East Raymond, MT 39933",-5569
+PO-0709,2021-10-19,Rita Wilson,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,2594,2022-01-10,"6670 Valerie Mission Suite 572
+Jameston, UT 58142",-8163
+PO-0846,2021-12-10,James Mitchell,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,1539,2022-01-13,"8085 Jason Extension Suite 965
+South Michael, NJ 59866",-9702
+PO-1456,2021-06-10,Wendy Moore,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,1978,2022-01-23,"7398 Jackson Walk
+Wongville, NC 89374",-11680
+PO-1567,2021-05-21,Kelly Monroe,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,1152,2022-03-30,"14053 Cervantes Overpass Suite 791
+Gonzalezstad, IN 57828",-12832
+PO-0353,2022-02-21,Shannon Johnson,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,2457,2022-05-09,"1837 Mcneil Stravenue
+Adamstad, TN 90560",-15289
+PO-1550,2022-05-04,Christopher Harmon,嵌入式模組,BARAJA,G6_Sensor Pamphlet,60.900000000000006,2979,2022-05-30,"443 Anthony Station
+Mercerstad, MN 25197",-18268
+PO-1555,2021-10-05,Xavier Hall,記憶體,GigaDevice,GD25xx,36.75,1992,2022-02-18,"Unit 8155 Box 2744
+DPO AE 51832",-937
+PO-1037,2022-04-18,Aaron Mcintosh,記憶體,GigaDevice,GD25xx,36.75,1944,2022-06-06,"38765 Troy Track
+South Ruben, WA 90031",-2881
+PO-0061,2021-08-16,Luis Wall,記憶體,GigaDevice,GD5Fxx,141.75,2078,2021-11-24,"307 Wanda Alley Suite 463
+New Patrickshire, IN 40370",-801
+PO-1571,2021-09-11,Richard Perez,記憶體,GigaDevice,GD5Fxx,141.75,2906,2022-03-20,"9087 Stewart Fields Suite 095
+Port Brianshire, TN 71216",-3707
+PO-1121,2022-04-07,Sarah Baldwin,記憶體,GigaDevice,GD5Fxx,141.75,2208,2022-04-08,"850 Pierce Course
+North Tonya, NV 16287",-5915
+PO-1631,2022-02-13,Vanessa Ramos,記憶體,GigaDevice,GD5Fxx,141.75,1048,2022-04-20,"7711 Smith Islands
+New Amanda, NV 20642",-6963
+PO-0180,2021-10-23,Ann Reed,記憶體,GigaDevice,GD5Fxx,141.75,2499,2022-05-07,"0807 Tanya Springs
+East Phillip, AL 68365",-9462
+PO-1918,2022-01-27,Jacob Tapia,記憶體,GigaDevice,GD5Fxx,141.75,1105,2022-06-12,"8313 Jeffrey Course Apt. 129
+Williamschester, DE 26302",-10567
+PO-1127,2022-03-11,Randy Fox,記憶體,GigaDevice,GD5Fxx,141.75,1008,2022-06-19,"189 Joshua Lodge Suite 686
+West Cindy, OR 27740",-11575
+PO-1239,2022-05-23,Michael Jones,記憶體,GigaDevice,GD5Fxx,141.75,1415,2022-07-01,"820 Martinez Union Suite 074
+West Glenn, WA 42232",-12990
+PO-1405,2022-04-24,Eric Moore,電池,GP,GP Supercell Carbon Zinc AA,122.85,2318,2022-06-18,"PSC 5631, Box 2983
+APO AP 30681",-698
+PO-1318,2022-05-08,April Guzman DDS,電池,GP,GP Supercell Carbon Zinc AA,122.85,2731,2022-06-30,"16840 Moore Islands Apt. 034
+South Timothy, IN 74992",-3429
+PO-1333,2022-05-11,Adam Ellis,嵌入式模組,Silicon Labs,Giant Gecko GG11 Series 1,237.3,1889,2022-05-11,"727 Cohen Extensions Apt. 472
+Ashleyberg, DE 50432",-1457
+PO-1576,2022-01-07,Richard Hester,嵌入式模組,Silicon Labs,Giant Gecko GG11 Series 1,237.3,2852,2022-06-02,"9168 Thompson Square
+Morganport, HI 27761",-4309
+PO-1501,2022-05-25,Michael Perry,嵌入式模組,Silicon Labs,Giant Gecko GG11 Series 1,237.3,2010,2022-06-06,"Unit 3549 Box 1042
+DPO AA 71033",-6319
+PO-1782,2022-03-14,Gina Lopez,嵌入式模組,Silicon Labs,Giant Gecko GG11 Series 1,237.3,1045,2022-06-07,"49185 Misty Courts
+Chenborough, LA 30400",-7364
+PO-1969,2021-04-19,Deanna Garrett,類比-IC,Littelfuse,HE3300,282.45,1976,2021-11-29,"0673 Jennifer Spur
+South Reneefort, WV 91589",-1546
+PO-1367,2021-07-04,Jose Thomas,類比-IC,Littelfuse,HE3300,282.45,1639,2021-12-03,"435 Chase Unions
+New Kristinstad, VT 40659",-3185
+PO-0719,2021-07-29,Patrick Mcdowell,類比-IC,Littelfuse,HE3300,282.45,1135,2022-03-23,"96277 Jones Lock
+Johnton, NH 79683",-4320
+PO-1335,2022-01-26,Robert Stevens,類比-IC,Littelfuse,HE3300,282.45,2833,2022-04-10,"1783 Cervantes Crest Suite 657
+Carolynburgh, OK 28905",-7153
+PO-1271,2022-03-15,Christopher Thomas,類比-IC,Littelfuse,HE3300,282.45,2977,2022-04-18,"83058 David Pine Suite 263
+Laurashire, AZ 79547",-10130
+PO-0225,2022-04-13,Tina Jones,類比-IC,Littelfuse,HE3300,282.45,1836,2022-05-26,"PSC 4897, Box 6467
+APO AA 49604",-11966
+PO-0448,2021-04-24,Michael Scott,類比-IC,Littelfuse,HE3300,282.45,2987,2022-05-27,"5599 Christopher Mill Apt. 034
+Lake Dianamouth, OR 81225",-14953
+PO-1935,2022-05-01,Christopher Rogers,類比-IC,Littelfuse,HE3300,282.45,2470,2022-06-24,"PSC 8710, Box 3322
+APO AP 33853",-17423
+PO-1021,2022-01-10,Elizabeth Cox,測試及測量,Rohde & Schwarz,HMC8012 Digital Multimeter,181.65,1236,2022-06-01,"69367 Richardson Branch Apt. 973
+North Mary, PA 34461",-470
+PO-0687,2021-10-31,Ashley Salazar,測試及測量,Rohde & Schwarz,HMC8015,19.95,2943,2021-12-10,"680 Crane Circle
+Tiffanyborough, AR 57290",-34
+PO-0206,2021-08-07,Danielle Costa,測試及測量,Rohde & Schwarz,HMC8015,19.95,1359,2021-12-25,"2701 Eric Islands Apt. 096
+North Kaylaland, VT 19650",-1393
+PO-0760,2021-09-10,Billy Powell Jr.,測試及測量,Rohde & Schwarz,HMC8015,19.95,1161,2022-02-17,"0749 Gregory Mill Suite 249
+Deborahhaven, ME 26023",-2554
+PO-0404,2022-03-30,Melissa Lewis,測試及測量,Rohde & Schwarz,HMC8015,19.95,2683,2022-03-30,"379 Villanueva Points
+North Frank, AZ 19767",-5237
+PO-0880,2022-03-25,James Andrews,測試及測量,Rohde & Schwarz,HMC8015,19.95,1378,2022-04-16,"2090 Thomas Port
+East Joannachester, MI 13796",-6615
+PO-1558,2021-10-06,Sarah Hill,測試及測量,Rohde & Schwarz,HMC8015,19.95,1953,2022-05-24,"50182 Todd Spur
+West Alexisborough, AZ 81900",-8568
+PO-1049,2021-04-12,Jorge Conrad,測試及測量,Rohde & Schwarz,HMC8015,19.95,2285,2022-05-25,"60582 Hannah Vista Apt. 934
+Kathryntown, KS 04114",-10853
+PO-1570,2022-03-25,Michele Figueroa,測試及測量,Rohde & Schwarz,HMC8015,19.95,1335,2022-06-18,"15420 Deborah Lodge
+West Williamchester, MS 38215",-12188
+PO-0999,2021-11-16,Robert Taylor,嵌入式模組,Hannstar,HSD050GDW1-B00-P,50.400000000000006,2377,2022-05-20,"95504 Vasquez Knoll Suite 018
+East Anthony, CO 27019",-2044
+PO-0256,2022-05-16,Kristie Baird,嵌入式模組,Hannstar,HSD050GDW1-B00-P,50.400000000000006,1314,2022-06-05,"74969 Jackson Cove
+Crystalview, AK 93985",-3358
+PO-0120,2021-12-27,Shawn Adams,嵌入式模組,Hannstar,HSD050GDW1-B00-P,50.400000000000006,2570,2022-06-11,"498 Williams Land
+West Anneberg, NY 81978",-5928
+PO-1406,2022-05-22,Amy Williams,嵌入式模組,Hannstar,HSD050GDW1-B00-P,50.400000000000006,1058,2022-06-23,"9539 April Ville
+North Austin, KS 96111",-6986
+PO-1331,2021-04-08,Sandra Hunt,嵌入式模組,Hannstar,HSD050GDW1-B00-P,50.400000000000006,1946,2022-06-30,"1029 David Trafficway Apt. 620
+Aliciaside, WV 50122",-8932
+PO-0518,2022-05-04,Natalie Young,非光學傳感器,Superior Sensor Technology,HV Series,65.10000000000001,1643,2022-05-05,"75843 Valdez Fall Suite 647
+Jenniferburgh, VA 63569",-1029
+PO-1119,2022-03-01,Charles Bradford,非光學傳感器,Superior Sensor Technology,HV Series,65.10000000000001,2387,2022-06-20,"1228 Peter Crescent
+Romeroton, DE 41523",-3416
+PO-0912,2021-10-30,Linda Clark,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,1767,2022-02-18,"4843 Duncan Stream Apt. 933
+Port Samanthafort, CA 28086",-21
+PO-0942,2022-04-07,Ashley Hall,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,2976,2022-05-03,"91038 Pacheco Courts Suite 514
+Johnsonview, DC 50870",-2997
+PO-1431,2021-04-14,Ashley Contreras,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,1953,2022-05-10,"821 Lamb Greens Suite 376
+Stokesside, VA 08133",-4950
+PO-0070,2022-05-16,Karen Martin,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,2231,2022-05-22,"55771 Heidi Corners Apt. 557
+Lake Robertville, NY 20236",-7181
+PO-0541,2022-05-12,Dana Nguyen,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,2104,2022-05-22,"5179 Michael Lock Apt. 858
+Markfort, NM 11091",-9285
+PO-0599,2021-05-24,Henry Lewis,非光學傳感器,Superior Sensor Technology,HV160 / HV120 / HV110 / HV210,109.2,1583,2022-06-21,"0029 Benjamin Alley Suite 092
+South Richard, NY 30048",-10868
+PO-0164,2021-07-08,Joshua Carroll,機電產品,Knowles,IA611,211.05,1160,2021-12-01,"81214 Darlene Road
+New Tylerfort, MS 93797",-807
+PO-0279,2021-12-26,David Gonzales,機電產品,Knowles,IA611,211.05,1260,2021-12-30,"94912 Kyle Keys Suite 553
+Veronicaburgh, ND 01325",-2067
+PO-1498,2021-05-11,Crystal Morgan,機電產品,Knowles,IA611,211.05,2254,2021-12-30,"1214 Dana Points Apt. 455
+Lake Arthurshire, WY 17516",-4321
+PO-0853,2022-04-05,Mr. Jay Sanchez,機電產品,Knowles,IA611,211.05,1564,2022-05-21,"79058 Jones Key
+Howellberg, VA 76860",-5885
+PO-1749,2022-05-14,Gary Johnson,機電產品,Knowles,IA611,211.05,2855,2022-06-27,"991 Joshua Garden Suite 479
+Edwardsland, GA 06570",-8740
+PO-1187,2021-05-26,Amanda Acosta,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,2598,2021-12-21,"369 Smith Forges Apt. 713
+South Barbara, VT 38538",-797
+PO-0416,2021-09-29,Angela Mercer,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,2059,2021-12-24,"2910 Debra Crescent
+New Ashleyfort, MA 34014",-2856
+PO-1315,2021-10-20,Jordan Weber,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,1029,2022-01-27,"4106 Ritter Passage
+New Jeremiahstad, NY 79836",-3885
+PO-1680,2021-12-14,Vincent Davis,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,2119,2022-03-25,"090 Garner Drive
+Port Dylanfurt, FL 37992",-6004
+PO-0349,2021-09-26,Timothy Andersen,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,1132,2022-03-26,"1612 David Mills Suite 522
+Phillipsland, CO 76528",-7136
+PO-1130,2022-01-12,Gabriel Fletcher,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,1278,2022-05-29,"620 Julie Trafficway Apt. 278
+Port Kennethside, PA 68049",-8414
+PO-1061,2021-10-16,James Malone,非光學傳感器,TDK InvenSense,IAM-20680HP,253.05,2417,2022-06-11,"474 Robert Coves
+Erikaburgh, NC 88185",-10831
+PO-1177,2021-10-03,Jacqueline Garcia,機電產品,TDK InvenSense,ICS-40212,79.8,1821,2022-05-30,"0517 Daniel Dale Suite 425
+Lunaside, WI 46757",-693
+PO-1179,2021-10-19,Curtis Webb,機電產品,TDK InvenSense,ICS-40212,79.8,2276,2022-06-12,"89148 Jones Stream Suite 170
+Victoriatown, PA 36163",-2969
+PO-0768,2021-08-22,Robert Davis,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,2459,2021-11-12,"853 Barron Mountains Suite 724
+New Ryan, KY 47064",-1385
+PO-0299,2021-04-19,Nicole Washington,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1092,2022-01-25,"67989 Ashley Pines
+Ellisontown, ND 47644",-2477
+PO-1348,2021-12-04,Lawrence Rocha,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,2277,2022-01-29,"494 Mark Passage Apt. 387
+Cesarstad, SD 57943",-4754
+PO-0583,2021-05-18,Gregory Evans,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,2028,2022-02-23,"13383 Ricky Roads Apt. 045
+Elizabethberg, VA 56943",-6782
+PO-0998,2021-09-10,Kathleen Colon,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1537,2022-03-04,"970 Ariana Alley
+Lake Kimside, OR 89546",-8319
+PO-1977,2021-10-19,Anne Sawyer,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1622,2022-03-13,"12289 Jonathan Extensions
+Strongville, MD 42176",-9941
+PO-0332,2022-04-18,Logan Wu,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1727,2022-05-28,"473 Hardin Knoll
+New Marilyn, TX 52783",-11668
+PO-1322,2022-02-15,Chad Tate,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1740,2022-06-17,"637 Mcgrath Lights Suite 625
+Paulmouth, OR 95108",-13408
+PO-1710,2022-05-25,Patricia Cowan,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,1594,2022-06-20,"17027 Jessica Mills Apt. 048
+East Jameschester, AR 99422",-15002
+PO-1364,2021-10-06,Shane Santos,光電產品,Sony Semiconductor,"IMX307LQD/LQR,  IMX335LLN/LQN, IMX412-AACK, IMX323LQN",123.9,2311,2022-06-22,"2878 Rodriguez Light Apt. 026
+Jeremystad, CA 82841",-17313
+PO-1539,2021-05-08,Charles Gordon,光電產品,Sony Semiconductor,IMX490,71.4,1679,2021-06-27,"472 Chapman Trafficway Suite 302
+East Scott, MO 14954",-68
+PO-0865,2021-05-09,Michael Shannon,光電產品,Sony Semiconductor,IMX490,71.4,2564,2021-10-21,"25450 Carlson Island
+Laceyhaven, KS 28996",-2632
+PO-1492,2021-10-23,Alejandro Saunders,光電產品,Sony Semiconductor,IMX490,71.4,2749,2021-11-26,"7804 Stacy Manors
+West Autumn, KY 47922",-5381
+PO-0845,2022-01-03,Michael Key,光電產品,Sony Semiconductor,IMX490,71.4,1207,2022-01-29,"50572 Mcbride Point Apt. 903
+Lake Sarahshire, MS 67803",-6588
+PO-1169,2021-08-14,Eric Evans,光電產品,Sony Semiconductor,IMX490,71.4,2913,2022-03-25,"9168 Ponce Spurs
+South Jesse, NJ 59382",-9501
+PO-1454,2022-04-10,Matthew Hansen,光電產品,Sony Semiconductor,IMX490,71.4,2234,2022-05-23,"7878 Boyd Heights
+East Aaronborough, MD 57680",-11735
+PO-1108,2022-03-25,Patrick Mccall,類比-IC,Power Integrations,INN3977CQ/INN3996CQ/INN3947CQ/INN3949CQ,189.0,1683,2022-04-18,"63144 Price Ranch Suite 911
+Raymondtown, WA 61932",-526
+PO-0887,2021-10-31,Brandy Huff,類比-IC,Power Integrations,INN3977CQ/INN3996CQ/INN3947CQ/INN3949CQ,189.0,1546,2022-06-27,"1438 Keith Fords Suite 065
+North Jessica, GA 45105",-2072
+PO-0754,2022-04-20,Nicholas Martin,類比-IC,Power Integrations,INN3977CQ/INN3996CQ/INN3947CQ/INN3949CQ,189.0,2990,2022-06-29,"82779 Edward Expressway
+North Lisa, FL 26266",-5062
+PO-1346,2021-12-17,Teresa Conway,離散式元件,KEC,KMA2D4P20SA,227.85,2507,2021-12-19,"4585 Hamilton Vista Suite 695
+Sandrabury, CO 53956",-1695
+PO-1837,2021-04-13,Victor Walker,離散式元件,KEC,KMA2D4P20SA,227.85,1247,2022-01-17,"USCGC Chapman
+FPO AE 96592",-2942
+PO-1925,2022-03-12,Benjamin Lam,離散式元件,KEC,KMA2D4P20SA,227.85,1982,2022-04-08,"093 Jennifer Estates Suite 678
+West Natalie, GA 91761",-4924
+PO-1258,2022-01-09,Jessica Sullivan,離散式元件,KEC,KMA2D4P20SA,227.85,2200,2022-04-22,"3994 Ryan Tunnel
+Port Kellyside, NV 69774",-7124
+PO-0419,2022-05-15,Teresa Garcia,離散式元件,KEC,KMA2D4P20SA,227.85,2587,2022-06-21,"014 Chapman Light
+Evansburgh, CA 45126",-9711
+PO-0063,2022-05-18,Joshua Farrell,離散式元件,KEC,KMA2D4P20SA,227.85,1731,2022-06-24,"PSC 2480, Box 3386
+APO AE 03222",-11442
+PO-1573,2022-04-14,William Zamora,積體電路-IC,Lattice,LCMXO2-4000HC-4BG256I,12.6,2811,2022-04-14,"33211 Nicholas Avenue Apt. 778
+Port Alexis, UT 60602",-2122
+PO-0431,2021-12-29,Mr. Philip Skinner MD,積體電路-IC,Lattice,LCMXO2-4000HC-4BG256I,12.6,1337,2022-04-16,"200 Williams Camp Suite 593
+North Ericashire, ND 02083",-3459
+PO-0577,2021-08-18,Melissa Martinez,積體電路-IC,Lattice,LCMXO2-4000HC-4BG256I,12.6,1819,2022-04-24,"0585 Natalie Causeway
+East Jacobfurt, FL 55361",-5278
+PO-1758,2021-07-08,Rickey Hicks,積體電路-IC,Lattice,LCMXO2-4000HC-4BG256I,12.6,1493,2022-04-29,"6506 Beverly Stream Suite 221
+New James, AR 00546",-6771
+PO-1383,2022-04-28,Jamie Smith,積體電路-IC,Lattice,LCMXO2-4000HC-4BG256I,12.6,2442,2022-05-29,"211 Michelle Lodge Apt. 303
+East Charlesside, MD 52887",-9213
+PO-1419,2022-04-13,Steven Long,類比-IC,STMicroelectronics,LD39130S,288.75,2638,2022-06-29,"863 Brown Village
+South Monicachester, NV 41559",-491
+PO-0903,2021-07-19,Frank Wallace,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2133,2022-01-05,"USCGC Perez
+FPO AE 46201",-974
+PO-0034,2022-01-01,Travis Stanton,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2086,2022-01-12,"912 Acosta Courts
+North Natashashire, ND 52521",-3060
+PO-0285,2022-01-30,Matthew Davis,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2846,2022-02-24,"50969 Cortez Neck Apt. 524
+Turnerland, UT 37621",-5906
+PO-1076,2022-02-09,Steven Nixon,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1647,2022-02-25,"72051 Lucas Cove
+Brianfort, SC 29121",-7553
+PO-1103,2021-04-04,Sherry Levine,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2905,2022-02-27,"Unit 7964 Box 4771
+DPO AE 37900",-10458
+PO-0298,2021-06-09,Mr. Ruben Cook MD,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1717,2022-03-12,"567 Dorothy Roads
+Michaelfurt, IL 47886",-12175
+PO-0964,2022-02-23,Brandon Hobbs,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1355,2022-03-12,"8693 Deanna Stravenue
+Garciastad, WY 80448",-13530
+PO-1131,2021-11-08,Bianca Wong,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1863,2022-05-08,"8368 Jeffrey Neck
+East David, MA 25789",-15393
+PO-1703,2022-05-01,Justin Johnson,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2255,2022-05-17,"478 Brown Locks Apt. 500
+Youngfurt, NC 97609",-17648
+PO-1814,2021-12-08,Samuel Cox,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,2384,2022-05-23,"431 Price Walk
+North Shawnberg, WA 34289",-20032
+PO-1465,2022-04-22,Tina Barber,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1555,2022-06-04,"855 Cook Vista Suite 869
+Lake Brittanystad, MD 54987",-21587
+PO-0585,2022-04-27,James Stone,嵌入式模組,Summit Wireless,LG Innotek (LGIT) WiSA Wireless Audio Tx Dongle,19.95,1186,2022-06-15,"4735 Patrick Center Suite 120
+Jessicamouth, NY 40038",-22773
+PO-0847,2021-07-17,Heather Marshall,非光學傳感器,STMicroelectronics,LIS25BA,51.45,2828,2021-08-30,"9321 Walker Lake
+Rodriguezton, SD 56284",-2804
+PO-0235,2021-09-23,Kerry Watkins,非光學傳感器,STMicroelectronics,LIS25BA,51.45,1429,2021-12-08,"352 Young Mill Suite 394
+Port Christopherhaven, MN 09054",-4233
+PO-0633,2021-10-04,Elizabeth Lee,非光學傳感器,STMicroelectronics,LIS25BA,51.45,1398,2022-02-08,"662 Kimberly Pine
+South Cody, NM 08673",-5631
+PO-0351,2021-12-03,Patricia Love,非光學傳感器,STMicroelectronics,LIS25BA,51.45,1854,2022-02-20,"76485 Jessica Glens Apt. 930
+North Matthew, AZ 34032",-7485
+PO-1786,2022-02-07,Jordan Thomas,非光學傳感器,STMicroelectronics,LIS25BA,51.45,1552,2022-02-26,"3862 Medina Crossroad
+Johnstonhaven, MO 95784",-9037
+PO-1635,2022-03-14,Gabrielle Anderson,非光學傳感器,STMicroelectronics,LIS25BA,51.45,1679,2022-03-15,"47460 Jennifer Court Apt. 663
+Stokesview, OK 37874",-10716
+PO-1344,2021-04-13,John Goodman,非光學傳感器,STMicroelectronics,LIS25BA,51.45,2269,2022-06-19,"245 Zachary Meadows Suite 947
+Mccallview, LA 21274",-12985
+PO-0649,2022-05-14,Nicholas Powell Jr.,非光學傳感器,STMicroelectronics,LIS25BA,51.45,2950,2022-06-21,"7804 Carr Port Suite 402
+Jonesmouth, DE 16190",-15935
+PO-1938,2022-02-10,William Banks,非光學傳感器,STMicroelectronics,LIS2DH12,305.55,2240,2022-04-19,"242 Corey Landing Suite 999
+North Alexandriaport, AR 65198",-1065
+PO-1490,2022-03-09,Chelsea Aguilar,非光學傳感器,STMicroelectronics,LIS2DH12,305.55,2181,2022-05-29,"08363 Mark Knolls Apt. 893
+East Laurenhaven, NV 43622",-3246
+PO-0107,2022-02-26,Monica Sosa,非光學傳感器,STMicroelectronics,LIS2DH12,305.55,2299,2022-06-21,"56561 Holden Extension
+Timothyside, NY 09713",-5545
+PO-0542,2021-04-05,Jacob Shaw,非光學傳感器,STMicroelectronics,LIS2DH12,305.55,1596,2022-06-28,"2924 Heather Garden
+Lake Patrickbury, TX 86183",-7141
+PO-0809,2022-05-27,Denise Smith,非光學傳感器,STMicroelectronics,LIS2MDL,240.45,2034,2022-06-15,"5415 Riddle River Apt. 675
+Port Ann, MN 71227",-831
+PO-1531,2022-03-23,Pamela Boyd,離散式元件,Littelfuse,LSIC1MO170E1000 Series,119.7,2865,2022-03-24,"78549 Ashley Turnpike Apt. 197
+North Austinville, DC 13526",-181
+PO-0783,2021-06-13,Jennifer Turner,離散式元件,Littelfuse,LSIC1MO170E1000 Series,119.7,1276,2022-05-22,"4798 Vincent Field
+Rayberg, VA 77894",-1457
+PO-0802,2021-07-30,Charles Rogers,離散式元件,Littelfuse,LSIC1MO170E1000 Series,119.7,2077,2022-05-24,"81959 Stephanie Summit
+South Dale, CO 67072",-3534
+PO-1578,2022-02-14,Sandra Williams,離散式元件,Littelfuse,LSIC1MO170E1000 Series,119.7,1701,2022-05-26,"6075 Brenda Dam Apt. 237
+Ryanbury, LA 41717",-5235
+PO-0749,2021-08-07,Jeffrey Curry,離散式元件,Littelfuse,LSIC1MO170E1000 Series,119.7,1961,2022-06-06,"679 Steven Trail
+Wrightmouth, AL 43568",-7196
+PO-1905,2021-11-14,Andrew Cruz,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,2922,2021-11-17,"7271 Leslie Dale
+Christon, KY 19090",-1086
+PO-0911,2021-04-27,Richard Porter,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,1409,2022-02-21,"044 Jordan Ramp
+New Bonnie, MT 70318",-2495
+PO-1147,2021-04-11,Michelle Booker,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,1558,2022-03-26,"Unit 4575 Box 9186
+DPO AA 13425",-4053
+PO-1813,2021-08-17,Mr. Benjamin Gregory DDS,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,2336,2022-03-31,"USNS Cortez
+FPO AE 54270",-6389
+PO-1158,2021-12-01,Mrs. Laura Williamson MD,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,1121,2022-06-01,"273 Miller Spring
+South Susan, KY 74869",-7510
+PO-1197,2021-04-10,Jay Jones,非光學傳感器,STMicroelectronics,LSM303AH,151.20000000000002,2959,2022-06-03,"424 Michael Ways
+Davidton, GA 73678",-10469
+PO-1048,2021-11-09,Crystal Sanchez,記憶體,STMicroelectronics,M95010-R,162.75,2387,2022-05-02,"50855 Dawn Plaza
+South Scottmouth, ME 45502",-1348
+PO-1036,2022-01-08,Sherry Tapia,記憶體,STMicroelectronics,M95010-R,162.75,1672,2022-05-07,"4847 Tammy Hill Apt. 015
+Lake Josephville, ME 83228",-3020
+PO-0365,2022-05-08,Brian Reed,記憶體,STMicroelectronics,M95010-R,162.75,1253,2022-05-16,"815 Barrett Mount Apt. 859
+East Valerie, NH 69352",-4273
+PO-1279,2021-07-30,Christina Moore,記憶體,STMicroelectronics,M95010-R,162.75,2447,2022-05-31,"09133 Jefferson Key
+Johnsberg, NV 44898",-6720
+PO-0535,2021-05-31,Joseph Griffith,積體電路-IC,MegaChips,MCDP2900,54.6,2870,2021-06-08,"153 Smith Extensions Suite 210
+Ericburgh, LA 08610",-2669
+PO-1198,2021-08-17,Martha Wong,積體電路-IC,MegaChips,MCDP2900,54.6,2789,2022-03-28,"576 Jackson Parks
+Lake Lisastad, WY 38399",-5458
+PO-0547,2022-03-05,Jacob Blake,積體電路-IC,MegaChips,MCDP2900,54.6,1118,2022-03-31,"51275 Philip Lane Suite 431
+Nelsonfort, DE 67441",-6576
+PO-1225,2021-12-18,Michelle Kennedy DVM,積體電路-IC,MegaChips,MCDP2900,54.6,1122,2022-04-01,"93750 Bell Meadows Suite 073
+Port Kathryn, MO 16641",-7698
+PO-1998,2022-01-06,Tina Dixon,積體電路-IC,MegaChips,MCDP2900,54.6,2760,2022-05-05,"8084 Mike Cliff
+Reidberg, MA 61103",-10458
+PO-0574,2021-12-19,Michael Hill,積體電路-IC,MegaChips,MCDP2900,54.6,1943,2022-05-09,"8535 Becker Lakes Apt. 769
+East Jonathonburgh, NC 96711",-12401
+PO-0525,2022-01-20,Connor Simmons,非光學傳感器,Melexis,MLX90632,40.95,2471,2022-04-17,"494 Michael Crescent
+Jacksonbury, KS 95446",-1346
+PO-1485,2022-04-15,Paul Berry,非光學傳感器,Melexis,MLX90632,40.95,2353,2022-04-24,"7508 Aguirre Cove
+Lake Erik, AR 05201",-3699
+PO-0960,2021-12-22,Frank Long,非光學傳感器,Melexis,MLX90632,40.95,1867,2022-06-07,"259 Stanley Crescent
+Kylieport, IA 79873",-5566
+PO-0715,2021-11-29,Laura Brown,類比-IC,Monolithic Power Systems,MP26085,66.15,2200,2022-06-08,"908 Christopher Ranch
+East William, VA 48843",-1712
+PO-0888,2021-12-30,Jason Ward,類比-IC,Monolithic Power Systems,MP26085,66.15,2469,2022-06-09,"62023 Jessica Shores Apt. 928
+Port Kelly, PA 51692",-4181
+PO-0726,2021-08-19,Brandon Hernandez,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,2953,2021-11-27,"586 Clay Lake Suite 782
+Rebeccashire, MA 13896",-2793
+PO-1638,2021-09-12,Casey Underwood,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,2296,2022-02-18,"3701 Donovan Ville
+New Travisfort, IN 59613",-5089
+PO-0379,2022-01-23,Jeffrey Jimenez,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,2152,2022-03-20,"35444 Nicholas Fields Suite 126
+Tanyaville, WA 35595",-7241
+PO-1325,2021-05-28,Timothy Johnson,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,1050,2022-03-27,"1413 Allen Corners
+Shawland, UT 70157",-8291
+PO-0188,2022-03-13,Jesus Williams,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,1100,2022-04-27,"99084 Dylan Shoal
+East Melissaburgh, UT 30936",-9391
+PO-0572,2022-02-12,Erin Wong,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,2369,2022-05-08,"7608 Stevens Unions
+Lake Madisonmouth, SC 00986",-11760
+PO-1450,2022-05-02,Joshua Graham,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,1023,2022-05-24,"023 Lynch Springs Apt. 823
+North Lauraville, NE 11237",-12783
+PO-0073,2022-03-02,Christopher Bowman,類比-IC,Monolithic Power Systems,MP26124,156.45000000000002,2559,2022-06-10,"USCGC Spears
+FPO AE 25913",-15342
+PO-0782,2021-09-07,Jeffrey Gibson,類比-IC,Monolithic Power Systems,MP2965,259.35,2583,2022-06-09,"53377 Robert Shoals
+New Mariachester, MS 55260",-360
+PO-1235,2022-05-10,Ryan Smith,類比-IC,Monolithic Power Systems,MP2965,259.35,2801,2022-06-12,"Unit 0589 Box 9109
+DPO AP 65378",-3161
+PO-1213,2022-05-28,Megan Shelton,類比-IC,Monolithic Power Systems,MP2965,259.35,2927,2022-06-22,"5129 Jill Groves
+Stevensside, NM 79665",-6088
+PO-0469,2021-12-13,Diana Payne,類比-IC,Monolithic Power Systems,MP6925A,85.05,1987,2022-05-18,"PSC 9946, Box 9184
+APO AE 13940",-1538
+PO-0896,2022-06-01,Jasmine Smith,類比-IC,Monolithic Power Systems,MP6925A,85.05,2999,2022-06-15,"345 Franklin Street
+Juanmouth, MO 74807",-4537
+PO-1667,2021-11-27,Michael Peters,類比-IC,Monolithic Power Systems,MP8110,252.0,1828,2022-03-25,"7644 Glover Village
+Burnsmouth, ND 45759",-498
+PO-1929,2021-10-17,Jessica Little,類比-IC,Monolithic Power Systems,MP8110,252.0,1185,2022-04-24,"54834 Simon Locks Suite 289
+Lake Charlesfurt, SD 14431",-1683
+PO-0510,2022-03-23,Kenneth Walters,類比-IC,Monolithic Power Systems,MP8110,252.0,1234,2022-05-12,"2744 Johnson Stream Suite 381
+Mauricefurt, MN 64752",-2917
+PO-0993,2021-05-23,Tracy Nelson,類比-IC,Monolithic Power Systems,MP8110,252.0,1070,2022-05-17,"898 Crystal Mountain
+Catherineville, HI 31980",-3987
+PO-1666,2022-01-22,Pamela Weaver,類比-IC,Monolithic Power Systems,MP8110,252.0,1756,2022-05-18,"269 Shawn Flat
+Dyerville, IA 09588",-5743
+PO-1165,2022-05-31,Jerry Wall,類比-IC,Monolithic Power Systems,MP8110,252.0,2768,2022-06-14,"98933 Frank Oval
+South Elizabethport, MS 12265",-8511
+PO-0106,2021-08-07,Joshua Collins,類比-IC,Monolithic Power Systems,MP8110,252.0,1293,2022-06-21,"49644 Tammy Haven
+East Veronicafort, LA 79637",-9804
+PO-1079,2022-01-17,Cody Anderson,類比-IC,Monolithic Power Systems,MPQ4214,170.1,2244,2022-05-03,"PSC 2792, Box 3612
+APO AA 29667",-983
+PO-1582,2022-05-06,Mary Grant,類比-IC,Monolithic Power Systems,MPQ4214,170.1,2874,2022-05-09,"931 John Bridge Suite 290
+Thompsonport, NY 05365",-3857
+PO-0828,2021-07-07,Benjamin Allen,類比-IC,Monolithic Power Systems,MPQ4214,170.1,2342,2022-05-14,"PSC 7599, Box 7414
+APO AA 57570",-6199
+PO-0863,2022-05-02,Daniel Brady,類比-IC,Monolithic Power Systems,MPQ4214,170.1,1082,2022-06-01,"961 Cynthia Turnpike Suite 286
+Lake Williammouth, NC 70560",-7281
+PO-1032,2022-05-17,Kathleen Butler,類比-IC,Monolithic Power Systems,MPQ4214,170.1,2580,2022-06-12,"008 Emily Ranch Apt. 663
+Port Robertville, NE 43283",-9861
+PO-1448,2021-04-09,John Robinson,積體電路-IC,Lattice,MachXO,227.85,1826,2021-12-25,"PSC 8454, Box 8055
+APO AA 59325",-535
+PO-0952,2021-04-13,Stephanie Crosby,積體電路-IC,Lattice,MachXO,227.85,1752,2022-01-01,"5096 Lisa Islands Suite 203
+Anthonyport, NE 47328",-2287
+PO-0428,2021-06-17,Jill Knight,積體電路-IC,Lattice,MachXO,227.85,2570,2022-01-05,"781 Roach Park Suite 724
+Tonyville, OH 91058",-4857
+PO-0501,2021-12-14,Linda Myers,積體電路-IC,Lattice,MachXO,227.85,2446,2022-01-29,"775 Olson Island
+New Michelle, CO 84750",-7303
+PO-0340,2022-01-02,Jennifer Ryan,積體電路-IC,Lattice,MachXO,227.85,1133,2022-02-17,"4936 Romero Brooks Suite 180
+Sherylmouth, UT 59319",-8436
+PO-1906,2021-09-02,Cheryl Gordon,積體電路-IC,Lattice,MachXO,227.85,1258,2022-04-22,"0514 Julie Fields Suite 403
+Alexanderbury, MA 72941",-9694
+PO-0561,2022-03-06,Douglas Torres,積體電路-IC,Lattice,MachXO,227.85,1709,2022-05-09,"84147 David Flat Suite 799
+Traceyburgh, CO 34178",-11403
+PO-1553,2021-06-26,Molly Harris,積體電路-IC,Lattice,MachXO,227.85,1986,2022-05-23,"31337 Ware Loop
+Williamfurt, NM 24069",-13389
+PO-1941,2022-05-15,Shelia Lee,積體電路-IC,Lattice,MachXO,227.85,2130,2022-06-03,"1691 Linda Shore
+North Heather, NY 50451",-15519
+PO-0837,2021-05-27,Robin Miller,積體電路-IC,Lattice,MachXO2,214.2,2104,2022-06-21,"Unit 2471 Box 3581
+DPO AP 40484",-1007
+PO-1284,2022-03-19,Jonathan Reynolds,積體電路-IC,Lattice,MachXO2,214.2,2527,2022-06-21,"973 Katherine Crescent
+Port George, WA 26114",-3534
+PO-0842,2022-05-21,Antonio Perry,積體電路-IC,Lattice,MachXO2,214.2,2221,2022-06-25,"208 Frank Plaza
+West Alexis, PA 86927",-5755
+PO-1682,2021-11-29,Kelly Johnson,微型組件,Marvell,Marvell Avanta,269.85,2284,2022-03-24,"65932 Robinson Mission Suite 769
+West Kathleen, NE 39350",-914
+PO-0005,2022-05-14,Mrs. Kirsten Mcgrath DDS,微型組件,Marvell,Marvell Avanta,269.85,1017,2022-05-14,"613 Edwards Park
+Gabriellaton, OR 82093",-1931
+PO-0127,2021-11-01,Christopher Webb,微型組件,Marvell,Marvell Avanta,269.85,2917,2022-05-24,"6974 Joseph Mountains
+Johnsonborough, MA 76448",-4848
+PO-0184,2021-05-16,Theodore Lopez,微型組件,Marvell,Marvell Avanta,269.85,2219,2022-05-31,"50083 Shields Light
+South Tiffanyborough, NY 46371",-7067
+PO-1999,2021-10-17,Raymond Dennis,電池,GP,Mini-Lithium Series,236.25,2629,2022-02-20,"USS Woods
+FPO AA 30041",-2188
+PO-1955,2022-02-17,Cynthia Nguyen,電池,GP,Mini-Lithium Series,236.25,2737,2022-02-22,"05590 Joseph Haven
+South Laurietown, NV 44822",-4925
+PO-1013,2021-10-19,Justin Bailey,電池,GP,Mini-Lithium Series,236.25,1961,2022-03-19,"USNS Shepard
+FPO AP 07638",-6886
+PO-1785,2022-01-03,Mary Hernandez,電池,GP,Mini-Lithium Series,236.25,1408,2022-03-28,"194 Fuentes Villages Suite 137
+Kristinfurt, NY 72812",-8294
+PO-1100,2021-11-28,Derek Rogers,電池,GP,Mini-Lithium Series,236.25,2351,2022-03-31,"Unit 3376 Box 4776
+DPO AP 29520",-10645
+PO-1662,2021-08-20,Jay Allen,機電產品,xMEMS Labs,Montara Series,206.85,1427,2022-01-03,"654 Evans Summit Apt. 201
+Torresfort, WY 26966",-152
+PO-0671,2021-11-15,Nicholas Carpenter,機電產品,xMEMS Labs,Montara Series,206.85,2973,2022-03-04,"331 Cox Plains
+Aaronchester, CO 51908",-3125
+PO-1420,2022-03-08,Daniel Pierce,機電產品,xMEMS Labs,Montara Series,206.85,1737,2022-03-30,"9594 Powers Brook Apt. 015
+Lake Michelle, ME 82953",-4862
+PO-1732,2021-04-04,Tammy Robinson,機電產品,xMEMS Labs,Montara Series,206.85,1564,2022-04-13,"79255 James Ridges Apt. 947
+Port Brandon, OR 43755",-6426
+PO-1627,2021-06-24,Jeffrey Nixon MD,機電產品,xMEMS Labs,Montara Series,206.85,2505,2022-04-15,"6296 Phillip Prairie Suite 713
+North Nicole, WI 14966",-8931
+PO-1256,2022-02-24,Mary Barker,機電產品,xMEMS Labs,Montara Series,206.85,2716,2022-05-01,"3670 Tammy Gardens
+Port Ronald, CT 28906",-11647
+PO-1914,2022-02-13,Steven Mendez,機電產品,xMEMS Labs,Montara Series,206.85,2289,2022-06-06,"579 Jeremy Loop
+Robinsonstad, MN 63204",-13936
+PO-1537,2021-11-07,Mrs. Kelly Thompson,嵌入式模組,Innolux,N116BCA,278.25,1953,2022-05-31,"PSC 3979, Box 2956
+APO AA 47922",-1207
+PO-0884,2022-01-19,Christopher Yu,嵌入式模組,Innolux,N116BCA,278.25,2782,2022-06-04,"814 Melinda Hollow
+Barrmouth, ME 50558",-3989
+PO-1839,2021-12-19,Cindy Vasquez,嵌入式模組,Innolux,N116BCA,278.25,2067,2022-06-18,"3075 Patrick Walk
+Port Joseph, MN 17558",-6056
+PO-0505,2021-05-27,Matthew Moss,嵌入式模組,Innolux,N116BCA,278.25,2225,2022-06-30,"337 Mcdowell Terrace Apt. 148
+West Jennifer, TN 23466",-8281
+PO-0748,2022-03-16,Beth Woods,非光學傳感器,Superior Sensor Technology,ND210 / ND110 / ND120 / ND130 / ND005D,150.15,1800,2022-04-19,"280 Murphy Heights
+Sarahville, WI 83581",-1614
+PO-0025,2022-04-17,Joseph Perez,非光學傳感器,Superior Sensor Technology,ND210 / ND110 / ND120 / ND130 / ND005D,150.15,2240,2022-05-02,"968 Allen Island
+Amberton, MA 05563",-3854
+PO-0723,2022-05-14,Jacob Nguyen,非光學傳感器,Superior Sensor Technology,ND210 / ND110 / ND120 / ND130 / ND005D,150.15,1767,2022-06-28,"7188 Santiago Lane
+New Christinatown, IN 73073",-5621
+PO-1039,2021-10-22,Stacy Cannon,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1178,2021-11-05,"044 Santana Streets
+Smithstad, AK 69593",-1128
+PO-1372,2021-07-04,Lisa Hawkins,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1013,2021-11-06,"41464 Gabrielle Stravenue
+Port Jeffreyport, KY 67371",-2141
+PO-0543,2021-08-24,Kelsey Garcia,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2815,2021-12-12,"1570 Melissa Ports Apt. 166
+Ariastown, NJ 08024",-4956
+PO-0597,2021-08-31,Timothy Strickland,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1045,2022-01-18,"USCGC Wilson
+FPO AA 24392",-6001
+PO-0692,2021-05-21,Zoe Patterson,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2474,2022-02-18,"966 Martin Stravenue
+Annettemouth, HI 88752",-8475
+PO-1596,2022-01-23,Robert Mitchell,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1993,2022-02-22,"249 Hodges Inlet Apt. 898
+Pearsonfort, NM 66413",-10468
+PO-0595,2022-02-04,Ashlee Martinez,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2683,2022-02-23,"009 Murray Plaza Suite 809
+Port Paulberg, NH 25233",-13151
+PO-0162,2021-10-21,Michael Alexander,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1252,2022-03-31,"647 Amber Forge
+Port Christopher, KS 03933",-14403
+PO-1276,2021-08-26,Denise Le,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2720,2022-04-17,"Unit 6238 Box 3694
+DPO AA 54917",-17123
+PO-1230,2022-01-29,Steven Morgan,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2136,2022-06-02,"50634 Michael Mission
+Mcdonaldstad, VA 98401",-19259
+PO-0796,2022-04-12,Kimberly Fisher,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,1215,2022-06-14,"754 Jacobs Divide
+North Thomasside, MD 24872",-20474
+PO-1908,2021-11-05,Mark Horne,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2231,2022-06-27,"260 David Highway
+Chadton, MT 26342",-22705
+PO-0931,2021-06-30,Samantha Lutz,嵌入式模組,ELATEC,Nano RFID modules (LF or HF),68.25,2417,2022-06-28,"306 Le Radial
+Taylorville, DE 16424",-25122
+PO-1155,2021-08-21,Dennis Byrd,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1706,2021-10-23,"8587 Baker Ways Suite 925
+Geraldberg, UT 90238",-723
+PO-0904,2021-08-19,John Adkins,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1049,2021-11-17,"49471 Green Rapid
+North Peter, AK 45225",-1772
+PO-1120,2021-07-16,Spencer Miller,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,2491,2021-12-11,"500 Hendricks Common
+Lake Melanie, WI 96221",-4263
+PO-1140,2021-04-29,Linda Pineda,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1999,2022-01-28,"9416 Wendy Mission
+Jeffreytown, DC 99438",-6262
+PO-0750,2021-10-10,Tanya Johnson,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1425,2022-02-01,"24537 Juarez Causeway Suite 100
+New Williamshire, WA 31984",-7687
+PO-0316,2022-02-27,Alexander Mendoza,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1790,2022-03-30,"3378 Woodard Course Suite 061
+West Virginia, SC 75721",-9477
+PO-0038,2021-10-19,Angel Spence,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1761,2022-04-07,"USCGC Guerra
+FPO AE 28193",-11238
+PO-0560,2021-12-03,Charles Bradley,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,2100,2022-04-17,"870 Cheryl Skyway Apt. 882
+Carrieshire, MT 69030",-13338
+PO-1317,2021-12-08,Justin Butler,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1501,2022-04-26,"USCGC Mason
+FPO AA 22755",-14839
+PO-1215,2022-04-16,Melissa Collins,離散式元件,Orientalsemi,OSG65R099JF,286.65000000000003,1685,2022-06-13,"2202 Jeremy Pass
+Lake Jamie, SC 97760",-16524
+PO-0275,2021-08-07,Adriana Perez,記憶體,Longsys,P800,33.6,2289,2022-06-12,"11161 Misty Summit
+Deborahmouth, NH 31800",-1782
+PO-1766,2021-10-19,Patricia Lee,嵌入式模組,Thales,PLS8,64.05,1944,2021-10-30,"8921 Brenda Lane
+South Huntertown, AK 11718",-206
+PO-0249,2021-07-06,Patty Harris,嵌入式模組,Thales,PLS8,64.05,1562,2021-11-24,"33638 Bonnie Ford Suite 731
+Stevensonhaven, KY 36489",-1768
+PO-1589,2021-06-18,Olivia Valencia,嵌入式模組,Thales,PLS8,64.05,1710,2022-03-21,"65905 Antonio Pike
+North Amanda, GA 01736",-3478
+PO-0407,2021-07-19,Andrea Coffey,嵌入式模組,Thales,PLS8,64.05,1425,2022-03-31,"2260 Nichole Club
+Port Kathleen, MT 37255",-4903
+PO-1566,2021-12-17,Michael Robertson,嵌入式模組,Thales,PLS8,64.05,1795,2022-03-31,"800 Amanda Glen Suite 632
+Hawkinsstad, WY 32612",-6698
+PO-1199,2022-01-03,Catherine Haley,嵌入式模組,Thales,PLS8,64.05,2665,2022-04-05,"50305 David Ford Suite 328
+Brendamouth, MS 70443",-9363
+PO-1015,2022-04-11,Aaron Black,嵌入式模組,Thales,PLS8,64.05,2890,2022-04-18,"565 Travis Course Suite 928
+Lake Deborah, KS 72693",-12253
+PO-0886,2022-05-09,Casey Maldonado,嵌入式模組,Thales,PLS8,64.05,2846,2022-07-01,"216 Michael Cliffs
+Reedstad, CT 68975",-15099
+PO-1811,2022-03-18,Veronica Taylor,類比-IC,MinebeaMitsumi,PST8xxx,295.05,2486,2022-06-01,"11857 Hill Mission
+New Roberttown, GA 80176",-408
+PO-1713,2022-01-16,John Stewart,類比-IC,MinebeaMitsumi,PST8xxx,295.05,1206,2022-06-09,"16949 Nicole Plains Apt. 726
+Bakerland, DC 06070",-1614
+PO-0947,2022-04-24,Chad Wright,類比-IC,MinebeaMitsumi,PST8xxx,295.05,1925,2022-06-19,"05076 Danny Crossing
+South Maria, MD 74153",-3539
+PO-1505,2022-04-07,Michael Williams,光電產品,ams OSRAM,Photodiode & Phototransistor,28.35,2161,2022-06-06,"Unit 9731 Box 8381
+DPO AE 88688",-1767
+PO-0446,2021-10-22,Jennifer Anderson,光電產品,ams OSRAM,Photodiode & Phototransistor,28.35,1770,2022-06-12,"2868 Amy Parks Suite 710
+South Joshualand, WV 30209",-3537
+PO-0132,2021-11-17,Hannah Dunn,光電產品,ams OSRAM,Photodiode & Phototransistor,28.35,1328,2022-06-15,"15777 Jennifer Stream Suite 200
+Lake Erikaside, MS 87722",-4865
+PO-1804,2021-07-19,Daisy Garcia,測試及測量,Rohde & Schwarz,QAR-K,110.25,1460,2022-03-05,"425 Everett Trace
+South Jesseshire, CT 41080",-1285
+PO-0177,2021-05-11,Kelly Pittman,測試及測量,Rohde & Schwarz,QAR-K,110.25,2174,2022-04-02,"7222 Navarro Shoals
+Cynthiaview, IA 57052",-3459
+PO-0313,2022-01-20,Alexander Young,測試及測量,Rohde & Schwarz,QAR-K,110.25,2449,2022-04-26,"03410 Rose Springs
+East Jonathan, WI 10706",-5908
+PO-0118,2022-03-29,Clifford Lee,測試及測量,Rohde & Schwarz,QAR-K,110.25,1722,2022-05-04,"90458 Ferguson Dam Apt. 694
+North Sara, SD 38816",-7630
+PO-0173,2021-12-10,Cassandra Harvey,測試及測量,Rohde & Schwarz,QAR-K,110.25,1024,2022-05-06,"9446 Margaret Hollow
+Randallburgh, ME 86691",-8654
+PO-1902,2022-03-11,Kenneth Mitchell,測試及測量,Rohde & Schwarz,QAR-K,110.25,1000,2022-05-08,"178 Trujillo Heights
+South Rachel, CO 37831",-9654
+PO-1872,2022-01-10,Melinda Anderson,測試及測量,Rohde & Schwarz,QAR-K,110.25,2980,2022-05-12,"8467 Serrano Rue
+Kimberlyview, NH 15221",-12634
+PO-0797,2021-12-02,Kayla Johns,測試及測量,Rohde & Schwarz,QAR-K,110.25,1140,2022-05-24,"49933 Beverly Passage
+Krystalberg, NM 15953",-13774
+PO-0810,2022-04-12,Joshua Taylor,測試及測量,Rohde & Schwarz,QAR-K,110.25,1489,2022-06-27,"7792 Morrison Walk Suite 855
+Bryantfort, MN 49998",-15263
+PO-1267,2021-06-21,John Roberts,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1356,2021-10-06,"741 Matthew Rest
+Adrianfurt, MN 73417",-246
+PO-1711,2021-09-29,Richard Wallace,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2634,2021-11-29,"2462 Johnson Island Apt. 184
+Tylerberg, KS 48054",-2880
+PO-0210,2021-08-19,Keith Clark,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1330,2021-12-10,"265 John Circles
+Vegaborough, NY 77242",-4210
+PO-0733,2021-05-13,Matthew Ruiz,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1957,2021-12-25,"891 Catherine Ferry
+Jenniferville, FL 42312",-6167
+PO-0606,2021-08-29,Gabriel Espinoza,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1725,2022-01-08,"8882 Donna Knoll Apt. 793
+Johnhaven, IN 07848",-7892
+PO-0581,2021-06-08,Joe Hampton,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1440,2022-01-25,"024 Jessica Causeway Apt. 832
+Cowantown, NH 83225",-9332
+PO-0412,2021-12-17,Veronica Rodgers,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2676,2022-02-01,"Unit 6368 Box 9071
+DPO AA 61567",-12008
+PO-1134,2021-08-22,Nicholas Perez,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2093,2022-02-19,"2552 Melissa Circle Suite 661
+Jessicaview, SD 63104",-14101
+PO-0478,2021-08-09,Steven Gates,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2584,2022-02-28,"8494 Harrington Spur Suite 575
+Rickyport, NJ 01025",-16685
+PO-0907,2022-03-19,Carlos Perry,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2774,2022-04-08,"642 Ortiz Bypass
+North Carolyn, FL 64543",-19459
+PO-0840,2022-03-11,Joseph Stewart,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2849,2022-05-23,"Unit 6724 Box 3153
+DPO AE 18469",-22308
+PO-0938,2022-02-08,Heather Hill,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2772,2022-05-23,"5431 Jamie Hills Suite 038
+Levyshire, GA 63702",-25080
+PO-0781,2022-03-25,Michael Goodwin,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,2736,2022-05-28,"513 Erica Crossroad Apt. 478
+New Taylorfort, UT 57051",-27816
+PO-0096,2021-10-17,Dawn Durham,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1424,2022-06-04,"2616 Mackenzie Expressway
+North Jessicaton, WY 02956",-29240
+PO-1669,2021-05-04,Edward Hayes,嵌入式模組,Silicon Labs,RS9116N-SB00-B00,232.05,1809,2022-06-23,"Unit 7500 Box 9086
+DPO AP 21862",-31049
+PO-0664,2021-07-22,Steven Nguyen,測試及測量,Rohde & Schwarz,RTH Scope Rider,45.15,1800,2022-06-22,"3446 Theodore Valley
+Douglasstad, DE 88374",-1795
+PO-0730,2021-08-13,Steven Kline,測試及測量,Rohde & Schwarz,RTO2000,249.9,2757,2022-05-20,"206 Matthew Roads Suite 752
+New Chad, FL 47462",-2741
+PO-0161,2021-08-26,Kelsey Adams,測試及測量,Rohde & Schwarz,RTO2000,249.9,1864,2022-06-01,"66928 Anthony Track
+Mistyton, KS 54109",-4605
+PO-1168,2022-02-02,Michael Flores,測試及測量,Rohde & Schwarz,RTO2000,249.9,1163,2022-06-13,"1748 Mullen Circle Suite 473
+Greenville, IA 38694",-5768
+PO-1863,2022-05-04,Amanda Chen,測試及測量,Rohde & Schwarz,RTO2000,249.9,1283,2022-06-19,"15088 Parks Plain Suite 982
+Lake Brenda, NE 26807",-7051
+PO-0018,2021-05-21,Sarah Johnson,連接器,Credo,Raptor 100 DSP,260.40000000000003,2286,2022-03-14,"97889 Reynolds Heights
+Lake Blakeside, WI 08357",-1653
+PO-1645,2022-04-28,Toni Chapman,連接器,Credo,Raptor 100 DSP,260.40000000000003,2979,2022-05-06,"5155 Alyssa Street Apt. 040
+Lake Jessicahaven, CO 53484",-4632
+PO-1402,2022-02-06,Cheryl Jones,連接器,Credo,Raptor 100 DSP,260.40000000000003,1032,2022-05-11,"16991 Brandon Mountain Suite 276
+Jonathanshire, VA 49840",-5664
+PO-0978,2021-09-25,Hannah Hughes,連接器,Credo,Raptor 100 DSP,260.40000000000003,1225,2022-06-09,"0555 Quinn Orchard
+Port Brandyfort, OH 60274",-6889
+PO-1316,2022-02-27,Amanda Rocha,連接器,Credo,Raptor 100 DSP,260.40000000000003,2319,2022-06-18,"6909 Martin Mission
+West Veronica, NC 32372",-9208
+PO-0187,2022-01-27,Luis Cantu,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2989,2022-02-19,"9190 Valencia Stream Apt. 410
+Port Jamesfurt, NJ 93270",-1276
+PO-0818,2021-08-12,Mr. Shannon Moon,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2620,2022-03-05,"502 Warner Shoal Apt. 040
+South Codychester, KY 50546",-3896
+PO-0780,2021-09-17,Gary Alexander,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,1215,2022-03-07,"30852 Olivia Squares Apt. 850
+New Susan, ID 84891",-5111
+PO-1687,2022-01-02,Robert Gallegos,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,1086,2022-03-25,"1583 Christopher Mount Suite 213
+West Ryan, HI 35901",-6197
+PO-0987,2021-08-15,Heather Peters,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2155,2022-03-27,"293 Wallace Lock Apt. 263
+Port Henryfurt, RI 33186",-8352
+PO-0688,2021-10-08,Bobby Ramirez,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2010,2022-05-02,"060 Thomas Islands
+Owensshire, FL 89201",-10362
+PO-0820,2022-04-25,Courtney Brown,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2315,2022-05-02,"Unit 4119 Box 1860
+DPO AP 88881",-12677
+PO-0812,2022-03-09,Jill Rose,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2954,2022-05-04,"84103 Chandler Ranch Suite 444
+Port Danny, NM 48144",-15631
+PO-1957,2022-02-08,Victoria Robinson,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2931,2022-05-18,"8826 Lauren Ports
+Port Eric, NE 63951",-18562
+PO-1866,2021-07-26,Dalton Jefferson,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,1230,2022-06-07,"532 Michael Way Suite 553
+New Loriview, ME 25517",-19792
+PO-1107,2022-05-29,Daniel Bryant,微型組件,Marvell,"SATA, SAS, and PCIe expertise enable complete solutions for Enterprise, Datacenter, and Client SSD markets.",265.65000000000003,2314,2022-06-24,"1785 Timothy Fork Apt. 878
+Phillipmouth, FL 74345",-22106
+PO-0043,2021-07-30,Mary Collins,光電產品,LUXSHARE ICT,"SFP,QSFP,OSFP",236.25,1167,2022-06-18,"1510 Adrian Mills
+Lake Jacobchester, UT 10765",-680
+PO-0305,2022-01-12,Charles Hicks,類比-IC,Sinopower,SM6125NSKP,280.35,2320,2022-04-12,"8138 Daniels Streets Apt. 011
+Port Anne, CO 77934",-1892
+PO-0677,2022-04-08,David Hernandez,類比-IC,Sinopower,SM6125NSKP,280.35,2377,2022-06-08,"PSC 9745, Box 7521
+APO AE 40326",-4269
+PO-0792,2022-05-23,Christian Marshall,類比-IC,Sinopower,SM6125NSKP,280.35,2068,2022-06-27,"597 Gene Manors
+North Deniseside, MI 96419",-6337
+PO-1768,2021-12-13,Allen Ramsey,非光學傳感器,Sentons,SNT8XXX,106.05,2201,2022-06-08,"40484 Atkinson Cape Apt. 696
+Lake Melaniechester, TX 17079",-1301
+PO-1174,2022-02-21,Paula Ingram,非光學傳感器,Sentons,SNT8XXX,106.05,1613,2022-06-12,"67576 Bradley Shoals Apt. 034
+West Steven, NH 13340",-2914
+PO-1368,2022-06-01,Michael Brown,類比-IC,STMicroelectronics,ST25 NFC,288.75,2687,2022-06-06,"PSC 7998, Box 7721
+APO AP 93667",-1114
+PO-1843,2022-05-08,Brandy Horton,類比-IC,STMicroelectronics,ST25 NFC,288.75,2916,2022-06-17,"06779 Nelson Roads
+North Frankview, TX 89559",-4030
+PO-0040,2021-08-15,Melissa Massey,微型組件,STMicroelectronics,STA1095,14.7,2974,2021-10-21,"100 Kaitlin Courts Suite 482
+North Amyburgh, VA 60598",-1643
+PO-1233,2021-10-23,Virginia Lopez,微型組件,STMicroelectronics,STA1095,14.7,1636,2021-12-25,"22596 Emily Forest Apt. 488
+Carmenport, ID 28660",-3279
+PO-0854,2022-01-03,Adam Harding,微型組件,STMicroelectronics,STA1095,14.7,1271,2022-03-15,"54722 Ingram Glens
+North Michaeltown, VA 16303",-4550
+PO-0995,2022-04-16,Miguel Patterson,微型組件,STMicroelectronics,STA1095,14.7,2142,2022-04-23,"350 Moran Skyway Suite 414
+Lake Richardmouth, WV 75330",-6692
+PO-1416,2021-04-12,Jessica Holder,微型組件,STMicroelectronics,STA1095,14.7,1419,2022-05-28,"99704 Gallegos Knoll
+Andrewborough, SC 64177",-8111
+PO-0156,2022-02-27,Barbara Carey,微型組件,STMicroelectronics,STA1095,14.7,1157,2022-06-03,"440 Stephanie Walk
+Port Erin, MA 44684",-9268
+PO-1832,2021-09-03,Jessica Marks,微型組件,STMicroelectronics,STA1095,14.7,2509,2022-06-17,"96619 Johnson Roads Suite 103
+Robertsmouth, HI 50283",-11777
+PO-0600,2021-07-14,Bradley Boyle,微型組件,STMicroelectronics,STA1095,14.7,1990,2022-06-28,"41602 Katie Dale
+Lisaport, AK 43681",-13767
+PO-1675,2021-08-14,Julie Molina,微型組件,STMicroelectronics,STA1295,87.15,1945,2021-09-27,"PSC 3403, Box 9878
+APO AE 70700",-433
+PO-1949,2021-07-12,Justin Simmons,微型組件,STMicroelectronics,STA1295,87.15,1933,2021-10-26,"PSC 1560, Box 4308
+APO AA 61976",-2366
+PO-1415,2021-09-05,Brett Smith,微型組件,STMicroelectronics,STA1295,87.15,2435,2021-11-27,"6097 Robinson Crescent
+East James, NH 35830",-4801
+PO-1588,2021-10-25,Ralph Reed,微型組件,STMicroelectronics,STA1295,87.15,2527,2022-01-20,"106 Jeffrey Mission Suite 786
+Valeriechester, TN 71327",-7328
+PO-0943,2021-12-12,Megan Martinez,微型組件,STMicroelectronics,STA1295,87.15,1304,2022-01-22,"USNS Gray
+FPO AP 14489",-8632
+PO-1389,2021-09-26,Michael Keller,微型組件,STMicroelectronics,STA1295,87.15,2929,2022-02-07,"7984 Harvey Highway Suite 965
+North Michael, ID 76225",-11561
+PO-0151,2022-02-08,Jason Winters,微型組件,STMicroelectronics,STA1295,87.15,2006,2022-03-01,"68325 Case Union
+New Tara, ND 11427",-13567
+PO-1584,2022-01-21,Randy Levine,微型組件,STMicroelectronics,STA1295,87.15,2814,2022-03-01,"2059 Russell Drives
+Arroyoland, MT 69980",-16381
+PO-1620,2021-12-04,Kathleen Dudley,微型組件,STMicroelectronics,STA1295,87.15,2139,2022-03-24,"449 Jennifer Creek Suite 080
+Weissfurt, OR 12216",-18520
+PO-1686,2021-10-05,Angela Lester,微型組件,STMicroelectronics,STA1295,87.15,1933,2022-04-18,"9273 Albert Street
+Wilsonmouth, NJ 37287",-20453
+PO-0136,2021-11-29,Laura Wright MD,積體電路-IC,MegaChips,STDP4300,55.650000000000006,2107,2022-06-04,"978 Daniel Lakes Suite 751
+Lake Jessicafort, IN 49796",-394
+PO-1851,2021-05-21,Loretta Johnson,積體電路-IC,MegaChips,STDP4300,55.650000000000006,2692,2022-06-25,"648 Shane Forge
+Jeffreychester, LA 85760",-3086
+PO-0300,2022-05-31,Tammy Schroeder,積體電路-IC,MegaChips,STDP4300,55.650000000000006,1002,2022-06-26,"52535 Mary Flats
+Nelsonstad, WV 28119",-4088
+PO-1172,2021-10-06,Sarah Wolfe,微型組件,STMicroelectronics,STM32F439II,159.6,2935,2022-02-26,"238 Ellis Wall Apt. 574
+Smithville, WY 83862",-2045
+PO-1186,2021-07-19,Brett Bowman,微型組件,STMicroelectronics,STM32F439II,159.6,2756,2022-05-05,"430 Fuller Road
+East Allisonton, OR 34608",-4801
+PO-1209,2021-11-07,Adam Montoya,微型組件,STMicroelectronics,STM32F439II,159.6,2878,2022-05-13,"590 Jessica Ranch Apt. 951
+Lake Michaelborough, OR 89554",-7679
+PO-0311,2022-03-03,Melinda Weaver,微型組件,STMicroelectronics,STM32F439II,159.6,1771,2022-06-11,"224 Regina Creek Apt. 802
+Christinahaven, GA 30295",-9450
+PO-0202,2021-09-14,Ariel Sims,類比-IC,Littelfuse,SZ1SMB Series,218.4,2403,2022-06-21,"119 Thomas Ports Suite 015
+North Brittany, NE 34767",-371
+PO-0586,2021-11-07,Donna Patrick,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,2063,2022-04-18,"471 Shaw Fork Apt. 460
+Port Rachelstad, MA 09417",-351
+PO-1077,2021-07-11,Jerry Potter,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,2050,2022-04-25,"62045 Stephen Court Apt. 895
+South Erikafort, CO 44937",-2401
+PO-1815,2022-02-10,Jerry Ward,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,2634,2022-04-27,"20453 Allen Prairie
+West Jennifer, VA 65151",-5035
+PO-1150,2021-08-31,Shelby Torres,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,2269,2022-05-05,"3961 Carolyn Crescent
+Lake Gina, CA 75330",-7304
+PO-0166,2022-05-05,Elizabeth Molina,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,2971,2022-06-01,"14582 Kristen Lock
+Pacefort, SC 75208",-10275
+PO-1771,2021-10-29,Blake Garcia,嵌入式模組,Silicon Labs,Series 2 Proprietary Wireless 2.4 GHz SoC,300.3,1520,2022-06-18,"4971 Christopher Gateway
+South Alyssa, TN 62743",-11795
+PO-0935,2022-05-21,Gina Maldonado,嵌入式模組,Silicon Labs,Series 2 Zigbee SoC,205.8,2672,2022-05-21,"77800 Mitchell Wells
+East Jessicaburgh, HI 68871",-2005
+PO-1259,2022-05-30,Jason Miller,嵌入式模組,Silicon Labs,Series 2 Zigbee SoC,205.8,1479,2022-06-06,"555 Alyssa Junctions Apt. 054
+South Phillipville, NE 55348",-3484
+PO-0640,2021-09-07,Cody Wilson,非光學傳感器,Silicon Labs,Si1143/44,204.75,2830,2022-04-17,"24805 Williams Knoll
+Williamborough, OR 41520",-353
+PO-0457,2021-09-06,Brittany Reid,非光學傳感器,Silicon Labs,Si1143/44,204.75,2246,2022-05-20,"7013 Vanessa Field
+Richardport, HI 49889",-2599
+PO-0927,2021-09-05,Wendy Bailey,非光學傳感器,Silicon Labs,Si1143/44,204.75,2817,2022-06-09,"9164 James Center
+Rivaston, KY 99662",-5416
+PO-1054,2022-05-02,Julie Wolfe,非光學傳感器,Silicon Labs,Si1143/44,204.75,2983,2022-06-25,"69439 Hooper Inlet
+Kellyhaven, OK 29944",-8399
+PO-0171,2021-07-23,James Hawkins,積體電路-IC,Skyworks,Si5332,300.3,1369,2021-08-20,"35625 Sandra Divide Apt. 222
+Port Michael, NM 87890",-866
+PO-1065,2021-12-10,Taylor Ryan,積體電路-IC,Skyworks,Si5332,300.3,2801,2021-12-27,"15967 Burns Valleys Suite 280
+Staffordtown, NJ 07709",-3667
+PO-0642,2022-01-08,Heather Rodriguez,積體電路-IC,Skyworks,Si5332,300.3,2639,2022-02-12,"86726 Morales Grove
+Christopherchester, NM 15081",-6306
+PO-1436,2021-09-16,Melissa Little,積體電路-IC,Skyworks,Si5332,300.3,2366,2022-02-28,"20691 Thomas Shoals
+Andreamouth, NC 28636",-8672
+PO-1663,2022-02-17,Lori Ross,積體電路-IC,Skyworks,Si5332,300.3,1437,2022-04-21,"690 Rhonda Pine
+Joelburgh, WA 19111",-10109
+PO-0823,2022-05-18,Angela Torres,積體電路-IC,Skyworks,Si5332,300.3,2292,2022-06-10,"Unit 8903 Box 7208
+DPO AA 86222",-12401
+PO-0021,2022-05-03,Elizabeth Daniels,積體電路-IC,Skyworks,Si538x,33.6,2411,2022-05-22,"PSC 7473, Box 3559
+APO AE 65033",-2179
+PO-0122,2022-04-05,Emily Douglas,積體電路-IC,Skyworks,Si538x,33.6,1227,2022-05-30,"85181 Charlotte Rest
+New Dorothystad, AZ 05059",-3406
+PO-0729,2022-03-05,Ryan Walsh,積體電路-IC,Skyworks,Si538x,33.6,2234,2022-06-17,"44880 Janet Centers Suite 958
+Michaelburgh, TN 38052",-5640
+PO-0425,2022-05-11,Ronald Wang,積體電路-IC,Skyworks,Si538x,33.6,1764,2022-06-25,"0420 Angela Bypass
+North Jamesburgh, IL 52504",-7404
+PO-0869,2022-05-23,Michael Rivers,積體電路-IC,Skyworks,Si538x,33.6,2976,2022-06-28,"Unit 7393 Box 1366
+DPO AA 59383",-10380
+PO-0546,2022-04-18,Kevin Delacruz,積體電路-IC,Skyworks,Si5391,250.95,1107,2022-04-26,"88876 Stark Points
+Lake Donald, ID 85449",-741
+PO-1729,2022-02-25,Angela Keith,積體電路-IC,Skyworks,Si5391,250.95,1692,2022-04-26,"PSC 8253, Box 5655
+APO AE 29665",-2433
+PO-1008,2022-04-17,Tammy Clark,積體電路-IC,Skyworks,Si5391,250.95,1371,2022-04-29,"679 Wilson Park Suite 598
+Reedhaven, VA 64993",-3804
+PO-0832,2022-04-28,Steven Hernandez,積體電路-IC,Skyworks,Si5391,250.95,1486,2022-05-03,"PSC 3704, Box 6288
+APO AA 20974",-5290
+PO-1640,2021-10-22,Mark Dawson,積體電路-IC,Skyworks,Si5391,250.95,2391,2022-06-11,"39660 Karen Lake Suite 588
+Chasetown, VT 95904",-7681
+PO-0857,2022-02-11,Dean Mendez,積體電路-IC,Skyworks,Si539x,262.5,1064,2022-03-14,"673 Duncan Burg
+Cookville, CO 43890",-752
+PO-0776,2021-12-29,Alan Vargas,積體電路-IC,Skyworks,Si539x,262.5,1164,2022-05-24,"USS Bartlett
+FPO AE 03972",-1916
+PO-1188,2021-07-18,Nicholas Parsons,積體電路-IC,Skyworks,Si539x,262.5,2754,2022-06-07,"777 Larry Shore
+Port Danielle, NC 66273",-4670
+PO-1716,2022-05-01,Kristina Ochoa,積體電路-IC,Skyworks,Si539x,262.5,1606,2022-06-10,"0155 Duncan Keys Apt. 189
+North Benjamin, MI 65241",-6276
+PO-1523,2022-01-30,Jessica Alexander,積體電路-IC,Skyworks,Si539x,262.5,2139,2022-07-01,"372 Fletcher Oval Apt. 526
+South William, MD 26551",-8415
+PO-0465,2021-08-25,Amber Jackson,微型組件,FocalTech,Smart Phone Application,114.45,1449,2022-02-20,"464 Crawford Via
+Diazland, ND 05992",-411
+PO-0085,2021-09-08,Amy Thomas,微型組件,FocalTech,Smart Phone Application,114.45,1255,2022-04-06,"8571 James Creek Suite 680
+Rodriguezmouth, MA 68720",-1666
+PO-1439,2021-11-17,Karla Burton,微型組件,FocalTech,Smart Phone Application,114.45,1943,2022-04-23,"776 Jessica Streets
+South Andrew, MN 23429",-3609
+PO-1511,2021-10-10,John Kelley DDS,微型組件,FocalTech,Smart Phone Application,114.45,2096,2022-04-23,"Unit 4997 Box 8629
+DPO AE 80778",-5705
+PO-1351,2021-07-31,Louis Maldonado,微型組件,FocalTech,Smart Phone Application,114.45,2156,2022-05-12,"381 Kimberly Shoal
+Garzatown, WY 09572",-7861
+PO-0397,2021-10-10,Michael Wheeler,微型組件,FocalTech,Smart Phone Application,114.45,2649,2022-05-21,"483 Rodriguez Views
+North Michael, UT 92883",-10510
+PO-0282,2022-04-22,John Ross,微型組件,FocalTech,Smart Phone Application,114.45,1408,2022-06-24,"3614 Smith Islands Suite 772
+New Jerryberg, SC 84288",-11918
+PO-0500,2021-09-27,Christine Montgomery,測試及測量,Rohde & Schwarz,Spectrum Rider FPH,71.4,1733,2022-02-18,"7774 Jerry Centers Apt. 592
+Adamborough, RI 43035",-460
+PO-0831,2021-10-08,Ricardo Williams,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,2697,2022-03-27,"USNV Foley
+FPO AE 70119",-2323
+PO-0264,2022-04-14,Evan Terry,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,1710,2022-05-10,"29540 Green Spring Apt. 634
+Arroyoside, MN 70736",-4033
+PO-0879,2022-03-20,Raymond Lamb,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,2321,2022-05-17,"USCGC Cline
+FPO AP 47910",-6354
+PO-0323,2022-02-16,Katelyn Morales,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,1571,2022-05-28,"612 Todd Meadows Apt. 969
+Barnettside, TN 56669",-7925
+PO-1161,2022-02-08,Russell Burns,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,2533,2022-06-07,"33591 Martin Garden
+South Scott, VA 19128",-10458
+PO-1342,2022-05-22,Priscilla Rodriguez,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,2066,2022-06-21,"7658 Lori Radial Apt. 544
+South Anthonyshire, NE 75930",-12524
+PO-0590,2022-05-28,Sean Smith,嵌入式模組,Summit Wireless,Summit SWM908SD TX Module,84.0,2409,2022-06-25,"6699 Sims Burgs Suite 955
+East Lorimouth, LA 66048",-14933
+PO-1319,2021-08-08,Julie Johnson,嵌入式模組,Summit Wireless,Summit SWS997SD Rx Module,308.7,2219,2022-06-19,"95713 Coleman Bypass Suite 345
+New Michelleport, ND 32338",-1845
+PO-0244,2021-12-28,Kathleen Kirk,嵌入式模組,Summit Wireless,Summit SWS997SD Rx Module,308.7,1142,2022-06-29,"PSC 7863, Box 6959
+APO AP 51881",-2987
+PO-1063,2022-01-18,Ricky Brown,嵌入式模組,Summit Wireless,Summit SWS997SD Rx Module,308.7,1118,2022-06-29,"99208 Katherine Forges
+Phillipberg, VA 78232",-4105
+PO-0882,2021-09-21,Brittany Ward,非光學傳感器,Tangio,TPE-500/800/900,26.25,1077,2021-11-20,"111 Davis Trail Apt. 672
+West Michelle, AL 72696",-645
+PO-0009,2021-11-05,Austin Waters,非光學傳感器,Tangio,TPE-500/800/900,26.25,1378,2022-01-06,"65780 Lauren Station
+Port Nicholasmouth, NH 09770",-2023
+PO-0104,2021-04-07,Bonnie Foster,非光學傳感器,Tangio,TPE-500/800/900,26.25,2710,2022-01-15,"PSC 0815, Box 3001
+APO AE 05027",-4733
+PO-1205,2021-08-18,Amanda Silva,非光學傳感器,Tangio,TPE-500/800/900,26.25,1614,2022-01-22,"602 Figueroa Walk Apt. 009
+Robertberg, NV 38421",-6347
+PO-1011,2022-01-13,Charles Weeks,非光學傳感器,Tangio,TPE-500/800/900,26.25,2410,2022-02-09,"1691 David Heights Suite 930
+South Michelle, WV 86599",-8757
+PO-0983,2021-04-23,Joseph Wallace,非光學傳感器,Tangio,TPE-500/800/900,26.25,2544,2022-05-02,"49193 Paul Squares
+Maureenborough, KS 78351",-11301
+PO-0872,2021-04-08,Jade Matthews,非光學傳感器,Tangio,TPE-500/800/900,26.25,2779,2022-05-21,"996 Scott Camp
+Evansmouth, LA 07601",-14080
+PO-1517,2022-02-24,Rebecca Garcia,光電產品,ams OSRAM,TSL2540,220.5,1687,2022-04-21,"596 Garcia Centers Suite 684
+Craigfort, KS 57052",-1458
+PO-1693,2021-11-19,Valerie Elliott,離散式元件,UnitedSiC,UJ3D,250.95,1325,2022-04-17,"85485 Thomas Fork Suite 632
+North Jamieburgh, AK 50633",-1320
+PO-0632,2021-04-26,Wanda Stevens,離散式元件,UnitedSiC,UJ3D,250.95,1548,2022-05-02,"9834 Natasha Estates Suite 105
+Ericland, DC 27093",-2868
+PO-1967,2022-04-28,Zoe Bryant,離散式元件,UnitedSiC,UJ3D,250.95,2316,2022-05-06,"9806 Young Isle Apt. 287
+Marquezshire, OH 41822",-5184
+PO-1695,2022-05-16,Todd Franklin,離散式元件,UnitedSiC,UJ3D,250.95,1325,2022-05-24,"6379 Erin Trail
+Port Whitney, KS 31079",-6509
+PO-1116,2022-03-24,Todd Lewis,嵌入式模組,USI,WM-BN-BM26_A,18.9,1668,2022-04-05,"54571 Gray Corners
+South Linda, OH 67943",-488
+PO-1688,2021-10-26,Charles Carson,嵌入式模組,USI,WM-BN-BM26_A,18.9,2991,2022-04-29,"0974 Jacob Valleys
+Brownmouth, KY 05117",-3479
+PO-1810,2022-02-11,Mr. John Williams,嵌入式模組,USI,WM-BN-BM26_A,18.9,2615,2022-05-13,"388 Porter Knolls
+North Christopherhaven, DE 77342",-6094
+PO-0979,2021-09-21,Lucas Howard,嵌入式模組,USI,WM-BN-BM26_A,18.9,2617,2022-05-18,"83177 Terri Loop
+Evelynmouth, CT 00682",-8711
+PO-0247,2022-01-04,Angela Aguirre DDS,嵌入式模組,USI,WM-BN-BM26_A,18.9,1443,2022-06-05,"73607 Carter Wells Suite 692
+South Stacyside, OR 08242",-10154
+PO-0905,2022-01-18,Amanda Garcia,嵌入式模組,USI,WM-BN-BM26_A,18.9,1553,2022-06-10,"7501 Ward Via
+Nicoleshire, TN 42227",-11707
+PO-1427,2022-02-05,Shannon Rogers,嵌入式模組,USI,WM-BN-BM26_A,18.9,1576,2022-06-29,"135 Wilson Freeway
+South Kevin, SC 94476",-13283
+PO-0836,2022-02-06,Ms. Dawn Reyes,類比-IC,Torex Semiconductor,XBP06V0U25R,213.15,2264,2022-05-30,"Unit 7511 Box 3047
+DPO AA 67447",-930
+PO-0652,2022-03-27,Jack Jimenez,類比-IC,Torex Semiconductor,XBP06V0U25R,213.15,1602,2022-06-15,"740 Powell Springs
+Lewisborough, NJ 96607",-2532
+PO-0208,2022-04-20,Autumn Arellano,類比-IC,Torex Semiconductor,XBP06V0U25R,213.15,1597,2022-06-20,"33346 Weaver Drive Apt. 651
+North Maryview, DC 90936",-4129
+PO-1754,2021-11-12,Stanley Khan,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,1752,2022-02-13,"4790 Lane Walks Apt. 929
+North Harold, VT 10298",-825
+PO-1114,2021-07-25,Jon Bray,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,1328,2022-03-19,"647 Julie Mission Apt. 533
+Jasonburgh, OK 36738",-2153
+PO-1670,2021-08-14,Sally Hicks,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,2326,2022-04-08,"Unit 2421 Box 7125
+DPO AP 28443",-4479
+PO-0618,2022-02-23,Juan Bryant,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,2800,2022-04-16,"6045 Buck Isle
+Scottmouth, HI 16505",-7279
+PO-0941,2021-04-21,Kenneth Romero,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,2348,2022-05-29,"783 Lawson Ways Suite 629
+West Pam, PA 74704",-9627
+PO-0405,2021-10-16,Anthony Lopez,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,1597,2022-06-07,"983 Ricky Highway Suite 904
+Lake Danny, MO 10026",-11224
+PO-0402,2021-10-22,Ann Pierce,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,2257,2022-06-11,"9780 Rice Square Apt. 990
+West Melissa, DE 64051",-13481
+PO-0957,2022-05-16,John Odonnell,類比-IC,Torex Semiconductor,XC9143 / XC9144,78.75,1649,2022-06-27,"204 Richard Burg
+Hollandtown, NM 57705",-15130
+PO-1964,2021-06-09,Deanna Costa,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1359,2021-12-27,"049 Hancock Forge
+South Angela, ME 86189",-59
+PO-1681,2021-09-26,Jessica Garcia,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1091,2022-01-19,"18122 Gallagher Underpass
+Deanchester, NH 26339",-1150
+PO-0937,2021-08-03,Sarah Graves,類比-IC,Torex Semiconductor,XC9272 Series,12.6,2755,2022-01-24,"124 Crystal Motorway
+East Christopherland, NY 16241",-3905
+PO-0740,2021-05-09,Lauren Rosales,類比-IC,Torex Semiconductor,XC9272 Series,12.6,2898,2022-03-19,"6520 Maria Stream
+North Manuel, CO 86826",-6803
+PO-0707,2022-03-15,Albert Collier,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1888,2022-04-26,"Unit 2803 Box 1766
+DPO AP 11725",-8691
+PO-1241,2021-08-18,Christopher Scott,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1624,2022-05-18,"067 Mills Via Apt. 963
+Brittanyfort, MS 97250",-10315
+PO-1495,2022-04-22,Leonard James,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1158,2022-06-01,"2221 Michelle Creek Apt. 655
+Stacyfurt, AK 31426",-11473
+PO-1702,2022-03-25,Mary Peters,類比-IC,Torex Semiconductor,XC9272 Series,12.6,1798,2022-07-01,"905 Jeffrey Overpass Apt. 515
+Katrinaburgh, OK 59233",-13271
+PO-0045,2021-12-04,Jamie Blevins,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,1590,2022-02-11,"5927 Morse Way
+Kirkview, IN 38449",-1310
+PO-1280,2021-09-18,Cameron Jones,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,2942,2022-03-18,"4522 Stevens Inlet Apt. 749
+Joseville, CT 00837",-4252
+PO-0083,2022-02-19,Margaret Hughes,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,1958,2022-04-14,"951 Brittany Rapids Apt. 512
+New Brian, KS 90495",-6210
+PO-1927,2022-04-19,Marc Reed,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,1967,2022-05-06,"USNS Briggs
+FPO AA 27773",-8177
+PO-0440,2022-03-12,Kevin Garner,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,2041,2022-06-25,"31701 Richard Circles
+West Aaronport, PA 72463",-10218
+PO-0334,2022-05-26,Bryan Jackson,類比-IC,Torex Semiconductor,XC9281 / XC9282,13.65,2854,2022-06-28,"366 Mcdonald Branch
+Jenkinsbury, MS 92606",-13072
+PO-1609,2021-09-06,Joseph Wood,類比-IC,Torex Semiconductor,XC9282,290.85,2522,2021-10-17,"223 Hayden Camp
+Port Collinberg, CA 66848",-674
+PO-0430,2021-05-11,Derek Snyder,類比-IC,Torex Semiconductor,XC9282,290.85,1275,2021-11-04,"78808 Robert Hill Suite 784
+Hughesberg, MN 27383",-1949
+PO-0786,2021-06-18,Jesus Suarez,類比-IC,Torex Semiconductor,XC9282,290.85,2909,2021-11-19,"703 Colton Square Apt. 082
+Meyersland, RI 08343",-4858
+PO-0765,2021-05-27,Karen Edwards,類比-IC,Torex Semiconductor,XC9282,290.85,2212,2021-12-15,"6265 Wright Loop
+East Lisafort, UT 91782",-7070
+PO-0741,2021-04-25,Nicholas Harris,類比-IC,Torex Semiconductor,XC9282,290.85,1065,2021-12-22,"177 Porter Knoll Suite 874
+New Anthonyberg, OH 26874",-8135
+PO-1861,2022-01-29,Johnny Kelly,類比-IC,Torex Semiconductor,XC9282,290.85,2759,2022-02-15,"9547 Jackson Walk
+West Luis, KS 60059",-10894
+PO-0620,2022-02-04,Kelly Solis,類比-IC,Torex Semiconductor,XC9282,290.85,1663,2022-04-11,"513 Natalie Ferry Suite 600
+North Matthewmouth, SC 79158",-12557
+PO-0289,2021-12-08,Priscilla Cook,類比-IC,Torex Semiconductor,XC9282,290.85,2175,2022-05-12,"874 Jeffrey Fort
+West Williamland, WI 94889",-14732
+PO-0539,2022-05-11,Jamie Diaz,類比-IC,Torex Semiconductor,XC9282,290.85,2898,2022-06-26,"12721 Bowman Ridges Apt. 290
+Garybury, NM 58954",-17630
+PO-1882,2022-01-09,Stacy Rangel,類比-IC,Torex Semiconductor,XCL series,124.95,1804,2022-06-20,"138 Stewart Oval Suite 952
+Port Darlene, FL 59721",-844
+PO-0378,2022-04-25,Kayla Small,類比-IC,Torex Semiconductor,XCL series,124.95,1384,2022-06-21,"885 Smith Port Apt. 204
+New Alexander, UT 64127",-2228
+PO-0267,2022-02-14,Tracy Adams,類比-IC,Torex Semiconductor,XCL series,124.95,1264,2022-06-29,"581 Blankenship Brook
+Angelaborough, IL 35952",-3492
+PO-0231,2021-12-20,Andrew Taylor PhD,嵌入式模組,Silicon Labs,"Z-Wave 500, Z-Wave 700",177.45000000000002,1813,2022-02-03,"5756 Lance Valley Apt. 912
+East Kellybury, NH 85281",-161
+PO-0695,2022-04-09,Stephanie Garrett,嵌入式模組,Silicon Labs,"Z-Wave 500, Z-Wave 700",177.45000000000002,2774,2022-04-18,"912 Gray Village
+New Matthewhaven, WA 21380",-2935
+PO-1374,2022-05-12,Evan Johnson,嵌入式模組,Silicon Labs,"Z-Wave 500, Z-Wave 700",177.45000000000002,2923,2022-06-03,"2712 Victoria Tunnel Apt. 645
+Scotthaven, WA 13045",-5858
+PO-1629,2022-05-22,Lynn Liu,嵌入式模組,Silicon Labs,"Z-Wave 500, Z-Wave 700",177.45000000000002,1357,2022-06-24,"13368 Yolanda Isle
+Matthewview, ME 44913",-7215
+PO-0374,2022-04-05,John Cook,嵌入式模組,Silicon Labs,"Z-Wave 500, Z-Wave 700",177.45000000000002,1838,2022-06-29,"027 Webb Islands
+East Matthew, HI 77921",-9053
+PO-0053,2022-03-09,Rebecca Gonzalez,測試及測量,Rohde & Schwarz,ZND Vector Network Analyzers,136.5,1403,2022-05-27,"377 Christine Plains Suite 205
+Sonyaberg, SC 87509",-105
+PO-1658,2022-04-16,Cynthia Randall,記憶體,Western Digital (SanDisk),iNAND 7232,162.75,2266,2022-05-24,"891 Michael River Apt. 511
+New Andresmouth, GA 17570",-1386
+PO-0181,2022-05-20,Jeffrey Hernandez,記憶體,Western Digital (SanDisk),iNAND 7232,162.75,1778,2022-06-16,"USNS Evans
+FPO AA 35756",-3164
+PO-0420,2021-12-17,Keith Weber,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2824,2022-04-04,"01956 Cynthia Isle
+West John, HI 13416",-1013
+PO-1487,2022-02-25,William Evans,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2249,2022-04-16,"102 Goodman Extension
+Mindyberg, MI 43115",-3262
+PO-0001,2021-12-13,Mario Richards,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,1249,2022-05-09,"359 James Bypass
+South Kaitlinborough, NE 65147",-4511
+PO-1924,2022-01-24,Dawn Hunter,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2708,2022-05-11,"Unit 8629 Box 0590
+DPO AA 70190",-7219
+PO-1509,2022-05-08,Carlos Stevens,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,1600,2022-06-02,"93886 Moreno Isle
+South Robertview, AK 04640",-8819
+PO-0822,2021-05-07,Nathan Freeman,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2120,2022-06-09,"1482 Herman Overpass Apt. 488
+West Angela, HI 71100",-10939
+PO-0480,2021-08-04,Leon Acosta,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2303,2022-06-15,"7573 Christine Roads Apt. 971
+Lindabury, NY 70592",-13242
+PO-0564,2021-10-01,Catherine Turner,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,1683,2022-06-24,"9963 Lindsay Oval Apt. 932
+New Gregorymouth, NM 29725",-14925
+PO-0308,2022-03-16,Cheryl Martinez,記憶體,Western Digital (SanDisk),iNAND 7250,130.20000000000002,2899,2022-07-01,"91779 Duffy Parkway Apt. 547
+Blakebury, AZ 11181",-17824
+PO-1574,2022-04-27,James Barajas,記憶體,Western Digital (SanDisk),iNAND 7550,238.35,2568,2022-05-14,"Unit 8380 Box 7789
+DPO AE 35520",-626
+PO-0530,2022-04-12,Patricia Grant,記憶體,Western Digital (SanDisk),iNAND 7550,238.35,1085,2022-05-15,"33621 Fernandez Ranch
+Danielstad, KS 52672",-1711
+PO-1877,2021-05-18,Mr. Austin Hernandez,記憶體,Western Digital (SanDisk),iNAND 7550,238.35,2371,2022-07-01,"050 Perez Manor Apt. 316
+Hamiltonfurt, VT 14593",-4082
+PO-0281,2022-05-08,Andrew Green,離散式元件,Power Integrations,integrated high-voltage ICs,145.95000000000002,2666,2022-05-21,"1896 Floyd Isle
+Harrisbury, KS 07029",-2080
+PO-0284,2022-04-23,Melissa Powell,離散式元件,Power Integrations,integrated high-voltage ICs,145.95000000000002,1086,2022-05-30,"84597 Gail Circle Suite 482
+Robertsonville, MD 44478",-3166
